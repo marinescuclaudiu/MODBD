@@ -22,7 +22,7 @@ export function DialogAdaugareAngajat({ id_cafenea }: { id_cafenea: string | und
 
     const handleAddEmployee = () => {
         // Implement the logic to add an employee here
-        axios.post("http://localhost:3000/employee", {
+        axios.post("http://localhost:3000/api/employee", {
             nume: nume,
             prenume: prenume,
             salariu: salariu,

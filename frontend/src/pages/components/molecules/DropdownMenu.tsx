@@ -42,7 +42,7 @@ export function DropdownMenuDemo({
     setCart([]);
 
     axios
-      .post("http://localhost:3000/orders", {
+      .post("http://localhost:3000/api/order", {
         id_client: localStorage.getItem("id_client"),
         id_cafenea: idCafenea,
         products: cart,

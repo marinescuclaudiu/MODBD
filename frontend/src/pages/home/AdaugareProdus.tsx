@@ -23,8 +23,8 @@ export function DialogAdaugareProdus() {
 
     const handleAddProduct = () => {
         // Implement the logic to add an employee here
-        axios.post("http://localhost:3000/products", {
-            nume_produs: denumire,
+        axios.post("http://localhost:3000/api/product", {
+            denumire,
             dimensiune,
             unitate_masura: unitateMasura,
             pret,

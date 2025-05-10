@@ -25,7 +25,7 @@ export default function CaffeList() {
             try {
                 // Schimbă portul 3000 cu portul real al backend-ului tău (probabil 3001)
                 const [cafeneaRes] = await Promise.all([
-                    axios.get("http://localhost:3000/cafes"),
+                    axios.get("http://localhost:3000/api/cafes"),
                 ]);
 
                 setCafenea(cafeneaRes.data);

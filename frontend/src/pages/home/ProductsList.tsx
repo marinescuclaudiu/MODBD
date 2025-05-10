@@ -14,7 +14,7 @@ export default function ProductList() {
             try {
                 const [productsRes] =
                     await Promise.all([
-                        axios.get("http://localhost:3000/products"),
+                        axios.get("http://localhost:3000/api/products"),
                     ]);
 
                 setProduse(productsRes.data);
@@ -27,7 +27,7 @@ export default function ProductList() {
     }, []); // Empty dependency array = runs once on mount
 
     const handleDeleteProduct = (id: number) => {
-        axios.delete(`http://localhost:3000/products/${id}`)
+        axios.delete(`http://localhost:3000/api/products/${id}`)
             .then((res) => {
                 console.log(res.data);
                 setProduse(produse.filter((produs: any) => produs.id_produs !== id));
@@ -55,7 +55,6 @@ export default function ProductList() {
                             <p className="text-gray-600">{produs.dimensiune}</p>
                             <p className="text-gray-600">{produs.unitate_masura}</p>
                             <p className="text-gray-600">{produs.pret} RON</p>
-                            <p className="text-gray-600">{produs.activ}</p>
                         </div>
                     </div>))}
             </div>

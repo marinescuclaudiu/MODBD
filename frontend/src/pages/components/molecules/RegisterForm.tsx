@@ -22,11 +22,11 @@ export function RegisterForm({
     e.preventDefault();
 
     axios
-      .post("http://localhost:3000/customers", {
+      .post("http://localhost:3000/api/customer", {
         nume: e.target[0].value,
         prenume: e.target[1].value,
         email: e.target[2].value,
-        password: e.target[3].value,
+        parola: e.target[3].value,
       })
       .then((response) => {
         console.log('a mers')

@@ -197,7 +197,7 @@ export const updateCafeInventory = async (req: Request, res: Response): Promise<
 
 
 export const deleteCafeInventory = async (req: Request, res: Response): Promise<any> => {
-    const { id_cafenea, id_materie } = req.body;
+    const { id_materie, id_cafenea } = req.params;
 
     console.log('ProductController - Deleting cafe inventory for ID_CAFENEA:', id_cafenea, 'and ID_MATERIE:', id_materie);
 

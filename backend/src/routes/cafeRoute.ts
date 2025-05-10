@@ -6,4 +6,4 @@ export const cafeRouter = Router();
 cafeRouter.get('/cafes', getCafes);
 cafeRouter.get('/cafeInventories', getCafeInventories);
 cafeRouter.put('/cafeInventory', updateCafeInventory);
-cafeRouter.delete('/cafeInventory', deleteCafeInventory);
+cafeRouter.delete('/cafeInventory/:id_materie/:id_cafenea', deleteCafeInventory);

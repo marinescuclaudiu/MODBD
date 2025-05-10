@@ -23,14 +23,14 @@ export function LoginForm({
 
     var logged = false;
     axios
-      .get("http://localhost:3000/customers")
+      .get("http://localhost:3000/api/customers")
       .then((response) => {
         const form = e.target as HTMLFormElement;
         console.log((form[0] as HTMLInputElement).value, (form[1] as HTMLInputElement).value);
         response.data.filter((customer: any) => {
           const form = e.target as HTMLFormElement;
           if (customer.email === (form[0] as HTMLInputElement).value && customer.password === (form[1] as HTMLInputElement).value) {
-            localStorage.setItem("id_client", customer.id);
+            localStorage.setItem("id_client", customer.id_client);
             logged = true;
             console.log("Login successful");
             navigate("/home");

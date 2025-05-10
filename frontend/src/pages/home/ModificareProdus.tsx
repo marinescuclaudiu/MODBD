@@ -23,8 +23,8 @@ export function DialogModificareProdus({ id_produs, denumireProdus, dimensiunePr
 
     const handleAddProduct = (id: string | number) => {
         // Implement the logic to add an employee here
-        axios.put(`http://localhost:3000/products/${id}`, {
-            nume_produs: denumire,
+        axios.put(`http://localhost:3000/api/products/${id}`, {
+            denumire,
             dimensiune,
             unitate_masura: unitateMasura,
             pret,

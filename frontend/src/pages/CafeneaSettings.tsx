@@ -48,12 +48,11 @@ export default function CafeneaSettings() {
         const fetchData = async () => {
             try {
                 // Schimbă portul 3000 cu portul real al backend-ului tău (probabil 3001)
-                const [angajatiRes, , cafeInventoriesRes, ordersRes] =
+                const [angajatiRes, cafeInventoriesRes, ordersRes] =
                     await Promise.all([
-                        axios.get("http://localhost:3000/employee"),
-                        axios.get("http://localhost:3000/products"),
-                        axios.get("http://localhost:3000/cafeInventories"),
-                        axios.get("http://localhost:3000/orders"),
+                        axios.get("http://localhost:3000/api/employees"),
+                        axios.get("http://localhost:3000/api/cafeInventories"),
+                        axios.get("http://localhost:3000/api/orders"),
                     ]);
 
                 setAngajati(angajatiRes.data.filter((angajat: Angajat) => angajat.id_cafenea == Number(id_cafenea)));
@@ -81,14 +80,13 @@ export default function CafeneaSettings() {
                         <div className="flex justify-between items-center">
                             <h2 className="text-lg font-semibold">{angajat.nume} {angajat.prenume}</h2>
                         </div>
-                        <p className="text-sm text-gray-600">ID: {angajat.id_angajat}</p>
-                        <p className="text-sm text-gray-600">Cafenea: {angajat.nume_cafenea} {angajat.id_cafenea}</p>
+                        <p className="text-sm text-gray-600">ID Angajat: {angajat.id_angajat}</p>
+                        <p className="text-sm text-gray-600">Cafenea: {angajat.nume_cafenea} ID Cafenea: {angajat.id_cafenea}</p>
                     </div>))}
             </ScrollArea>
 
             <ScrollArea className="h-[90%] w-[350px] rounded-md border p-4">
                 <h1 className="sticky text-2xl font-bold mb-4 flex justify-center items-center gap-4">Inventarul Cafenelei
-                    <DialogAdaugareAngajat id_cafenea={id_cafenea} />
                 </h1>
                 {
                     cafeInventories.map((cafeInventory: CafeInventar) => (
@@ -97,7 +95,7 @@ export default function CafeneaSettings() {
                                 <h2 className="text-lg font-semibold">{cafeInventory.nume_materie}</h2>
                                 <div className="flex gap-2 justify-center items-center">
                                     <DialogModificareInventar id_cafenea={cafeInventory.id_cafenea} id_materie={cafeInventory.id_materie} cantitate={cafeInventory.cantitate} />
-                                    <Minus className="bg-red-500 w-8 h-8 p-1 rounded-full" onClick={() => { axios.delete(`http://localhost/cafeInvetories/${cafeInventory.id_materie}/${cafeInventory.id_cafenea}`) }} />
+                                    <Minus className="bg-red-500 w-8 h-8 p-1 rounded-full" onClick={() => { axios.delete(`http://localhost:3000/api/cafeInventory/${cafeInventory.id_materie}/${cafeInventory.id_cafenea}`) }} />
                                 </div>
                             </div>
                             <p className="text-sm text-gray-600">ID: {cafeInventory.id_materie}</p>

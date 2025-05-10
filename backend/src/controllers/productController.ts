@@ -25,7 +25,7 @@ export const getProducts = async (req: Request, res: Response): Promise<any> => 
         if (result.rows && result.rows.length > 0) {
             const products = result.rows.map((row: any) => ({
                id_produs: row.ID_PRODUS,
-               denumire: row.DENUMIRE,
+               nume_produs: row.DENUMIRE,
                dimensiune: row.DIMENSIUNE,
                unitate_masura: row.UNITATE_MASURA,
                pret: row.PRET,
@@ -136,6 +136,49 @@ export const updateProduct = async (req: Request, res: Response): Promise<any> =
         // Handle any errors that occur
         console.error('Error updating product:', err);
         return res.status(500).json({ error: 'Failed to update product' });
+    } finally {
+        // Release the connection back to the pool
+        if (connection) {
+            try {
+            await connection.close();
+            } catch (closeError) {
+            console.error('Error closing connection:', closeError);
+            }
+        }
+    }
+}
+
+export const deleteProduct = async (req: Request, res: Response): Promise<any> => {
+    const { id_produs } = req.params;
+
+    console.log('ProductController - Deleting product with ID:', id_produs);
+
+    // Initialize the connection
+    let connection: oracledb.Connection | null = null;
+    
+    try {
+        // Wait for the pool to resolve
+        const resolvedPool = await pool;
+
+        // Get a connection from the pool
+        connection = await resolvedPool.getConnection();
+
+        // Prepare the SQL statement
+        const sql = `DELETE FROM PRODUS WHERE ID_PRODUS = :id_produs`;
+    
+        // Execute the query    
+        const result = await connection.execute(sql, [id_produs], { autoCommit: true });
+
+        if (result.rowsAffected === 0) {
+            return res.status(404).json({ message: 'Product not found' });
+        }
+
+        return res.status(200).json({ message: 'Product deleted successfully' });
+    }
+    catch (err) {
+        // Handle any errors that occur
+        console.error('Error deleting product:', err);
+        return res.status(500).json({ error: 'Failed to delete product' });
     } finally {
         // Release the connection back to the pool
         if (connection) {

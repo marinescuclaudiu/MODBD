@@ -30,7 +30,7 @@ export default function CafeneaDetail() {
         // Schimbă portul 3000 cu portul real al backend-ului tău (probabil 3001)
         const [productsRes] =
           await Promise.all([
-            axios.get("http://localhost:3000/products"),
+            axios.get("http://localhost:3000/api/products"),
           ]);
 
         setProduse(productsRes.data);
@@ -44,10 +44,10 @@ export default function CafeneaDetail() {
 
   const addToCart = (produs: Produs) => {
     setCart((prevCart) => {
-      const existingProduct = prevCart.find((item) => item.id === produs.id);
+      const existingProduct = prevCart.find((item) => item.id_produs === produs.id_produs);
       if (existingProduct) {
         return prevCart.map((item) =>
-          item.id === produs.id
+          item.id_produs === produs.id_produs
             ? { ...item, cantitate: item.cantitate + 1 }
             : item
         );

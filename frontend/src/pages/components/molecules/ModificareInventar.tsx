@@ -18,7 +18,7 @@ export function DialogModificareInventar({ id_cafenea, id_materie, cantitate }: 
 
     const handleAddEmployee = () => {
         // Implement the logic to add an employee here
-        axios.put("http://localhost:3000/cafeIntentory", {
+        axios.put("http://localhost:3000/api/cafeInventory", {
             id_cafenea: id_cafenea,
             id_materie: id_materie,
             cantitate: cantitateNoua
