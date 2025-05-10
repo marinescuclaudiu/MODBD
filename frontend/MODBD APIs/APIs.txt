@@ -1,0 +1,79 @@
+GET - /api/cafes - Aduce cafenelele, vezi JSON ✅
+GET - /api/cafeInventories - Aduce inventarul cafenelelor, vezi JSON ✅
+GET - /api/employee - Aduce angajatii, vezi JSON ✅
+GET - /api/orders - Aduce comenzile, vezi JSON - vezi ca are JSON vreo 2 milioane de linii, nush de ce a vrut Flavia sa le aduc pe toate =)) ✅
+GET - /api/products - Aduce produsele, vezi JSON ✅
+
+
+POST - /api/product - Insereaza produs. ✅
+Ex:
+{
+    "denumire": "Apa",
+    "dimensiune": "whatever",
+    "unitate_masura": "ml",
+    "pret": 10
+}
+
+POST - /api/customer - Insereaza client ✅
+Ex:
+{
+    "nume": "Sorin",
+    "prenume": "Senzor",
+    "email": "sorinsenzor@gmail.com",
+    "parola": "whatever"
+}
+
+
+POST - /api/employee - Insereaza angajat ✅
+Ex:
+{
+    "nume": "Sorin",
+    "prenume": "Senzor",
+    "salariu": 100,
+    "id_cafenea": 3
+}
+
+POST - /api/order - Insereaza comanda ✅
+Ex:
+{
+    "id_client": 11,
+    "id_cafenea": 1,
+    "products": [
+        {
+            "id_produs": 99,
+            "cantitate": 2
+        },
+        {
+            "id_produs": 100,
+            "cantitate": 1
+        }
+    ]
+}
+
+PUT - /api/products/:id - Update produs ✅
+Ex: api/products/99
+{
+    "denumire": "cacao",
+    "dimensiune": "that's quite big",
+    "unitate_masura": "ml",
+    "pret": 10
+}
+
+
+PUT - /api/cafeInventory - Update element din inventarul unei cafenele✅
+{
+   "id_cafenea": 1,
+   "id_materie": 1,
+   "cantitate": 0
+}
+
+
+DELETE - /api/cafeInventory - Sterge element din inventarul unei cafenele ✅
+{
+   "id_cafenea": 1,
+   "id_materie": 1
+}
+
+
+
+

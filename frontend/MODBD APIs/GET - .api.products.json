@@ -1,0 +1,1258 @@
+[
+    {
+        "id_produs": 99,
+        "denumire": "Produs 101",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 13.15,
+        "activ": "1"
+    },
+    {
+        "id_produs": 100,
+        "denumire": "Produs 101",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 16.77,
+        "activ": "1"
+    },
+    {
+        "id_produs": 101,
+        "denumire": "Produs 101",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 17.81,
+        "activ": "1"
+    },
+    {
+        "id_produs": 102,
+        "denumire": "Produs 102",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 10.28,
+        "activ": "1"
+    },
+    {
+        "id_produs": 103,
+        "denumire": "Produs 102",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 11.65,
+        "activ": "1"
+    },
+    {
+        "id_produs": 104,
+        "denumire": "Produs 102",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 14.07,
+        "activ": "1"
+    },
+    {
+        "id_produs": 105,
+        "denumire": "Produs 103",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 9.8,
+        "activ": "1"
+    },
+    {
+        "id_produs": 106,
+        "denumire": "Produs 103",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 11.5,
+        "activ": "1"
+    },
+    {
+        "id_produs": 107,
+        "denumire": "Produs 103",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 13.32,
+        "activ": "1"
+    },
+    {
+        "id_produs": 108,
+        "denumire": "Produs 104",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 9.95,
+        "activ": "1"
+    },
+    {
+        "id_produs": 109,
+        "denumire": "Produs 104",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 17.25,
+        "activ": "1"
+    },
+    {
+        "id_produs": 110,
+        "denumire": "Produs 104",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 13.6,
+        "activ": "1"
+    },
+    {
+        "id_produs": 111,
+        "denumire": "Produs 201",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 11.68,
+        "activ": "1"
+    },
+    {
+        "id_produs": 112,
+        "denumire": "Produs 201",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 17.44,
+        "activ": "1"
+    },
+    {
+        "id_produs": 113,
+        "denumire": "Produs 201",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 14.01,
+        "activ": "1"
+    },
+    {
+        "id_produs": 114,
+        "denumire": "Produs 202",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 12.61,
+        "activ": "1"
+    },
+    {
+        "id_produs": 115,
+        "denumire": "Produs 202",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 13.76,
+        "activ": "1"
+    },
+    {
+        "id_produs": 116,
+        "denumire": "Produs 202",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 16.1,
+        "activ": "1"
+    },
+    {
+        "id_produs": 117,
+        "denumire": "Produs 203",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 15.06,
+        "activ": "1"
+    },
+    {
+        "id_produs": 118,
+        "denumire": "Produs 203",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 17.27,
+        "activ": "1"
+    },
+    {
+        "id_produs": 119,
+        "denumire": "Produs 203",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 18.85,
+        "activ": "1"
+    },
+    {
+        "id_produs": 120,
+        "denumire": "Produs 204",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 10.91,
+        "activ": "1"
+    },
+    {
+        "id_produs": 121,
+        "denumire": "Produs 204",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 17.61,
+        "activ": "1"
+    },
+    {
+        "id_produs": 122,
+        "denumire": "Produs 204",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 18.19,
+        "activ": "1"
+    },
+    {
+        "id_produs": 123,
+        "denumire": "Produs 301",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 13.2,
+        "activ": "1"
+    },
+    {
+        "id_produs": 124,
+        "denumire": "Produs 301",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 12.75,
+        "activ": "1"
+    },
+    {
+        "id_produs": 125,
+        "denumire": "Produs 301",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 15.87,
+        "activ": "1"
+    },
+    {
+        "id_produs": 126,
+        "denumire": "Produs 302",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 11.62,
+        "activ": "1"
+    },
+    {
+        "id_produs": 127,
+        "denumire": "Produs 302",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 17.14,
+        "activ": "1"
+    },
+    {
+        "id_produs": 128,
+        "denumire": "Produs 302",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 19.9,
+        "activ": "1"
+    },
+    {
+        "id_produs": 129,
+        "denumire": "Produs 303",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 12.49,
+        "activ": "1"
+    },
+    {
+        "id_produs": 130,
+        "denumire": "Produs 303",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 13.43,
+        "activ": "1"
+    },
+    {
+        "id_produs": 131,
+        "denumire": "Produs 303",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 14.46,
+        "activ": "1"
+    },
+    {
+        "id_produs": 132,
+        "denumire": "Produs 304",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 10.7,
+        "activ": "1"
+    },
+    {
+        "id_produs": 133,
+        "denumire": "Produs 304",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 12.28,
+        "activ": "1"
+    },
+    {
+        "id_produs": 134,
+        "denumire": "Produs 304",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 13.18,
+        "activ": "1"
+    },
+    {
+        "id_produs": 135,
+        "denumire": "Produs 305",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 12.12,
+        "activ": "1"
+    },
+    {
+        "id_produs": 136,
+        "denumire": "Produs 305",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 16.19,
+        "activ": "1"
+    },
+    {
+        "id_produs": 137,
+        "denumire": "Produs 305",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 18.39,
+        "activ": "1"
+    },
+    {
+        "id_produs": 138,
+        "denumire": "Produs 401",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 10.43,
+        "activ": "1"
+    },
+    {
+        "id_produs": 139,
+        "denumire": "Produs 401",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 11.77,
+        "activ": "1"
+    },
+    {
+        "id_produs": 140,
+        "denumire": "Produs 401",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 13.36,
+        "activ": "1"
+    },
+    {
+        "id_produs": 141,
+        "denumire": "Produs 402",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 15.5,
+        "activ": "1"
+    },
+    {
+        "id_produs": 142,
+        "denumire": "Produs 402",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 12.41,
+        "activ": "1"
+    },
+    {
+        "id_produs": 143,
+        "denumire": "Produs 402",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 14.37,
+        "activ": "1"
+    },
+    {
+        "id_produs": 144,
+        "denumire": "Produs 403",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 10.42,
+        "activ": "1"
+    },
+    {
+        "id_produs": 145,
+        "denumire": "Produs 403",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 17.91,
+        "activ": "1"
+    },
+    {
+        "id_produs": 146,
+        "denumire": "Produs 403",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 18.35,
+        "activ": "1"
+    },
+    {
+        "id_produs": 147,
+        "denumire": "Produs 404",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 13.03,
+        "activ": "1"
+    },
+    {
+        "id_produs": 148,
+        "denumire": "Produs 404",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 16.9,
+        "activ": "1"
+    },
+    {
+        "id_produs": 149,
+        "denumire": "Produs 404",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 13.27,
+        "activ": "1"
+    },
+    {
+        "id_produs": 150,
+        "denumire": "Produs 405",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 12.25,
+        "activ": "1"
+    },
+    {
+        "id_produs": 151,
+        "denumire": "Produs 405",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 13.34,
+        "activ": "1"
+    },
+    {
+        "id_produs": 152,
+        "denumire": "Produs 405",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 16.8,
+        "activ": "1"
+    },
+    {
+        "id_produs": 153,
+        "denumire": "Produs 406",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 11.01,
+        "activ": "1"
+    },
+    {
+        "id_produs": 154,
+        "denumire": "Produs 406",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 14.03,
+        "activ": "1"
+    },
+    {
+        "id_produs": 155,
+        "denumire": "Produs 406",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 16.52,
+        "activ": "1"
+    },
+    {
+        "id_produs": 156,
+        "denumire": "Produs 501",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 15.94,
+        "activ": "1"
+    },
+    {
+        "id_produs": 157,
+        "denumire": "Produs 501",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 11.41,
+        "activ": "1"
+    },
+    {
+        "id_produs": 158,
+        "denumire": "Produs 501",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 16.81,
+        "activ": "1"
+    },
+    {
+        "id_produs": 159,
+        "denumire": "Produs 502",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 12.39,
+        "activ": "1"
+    },
+    {
+        "id_produs": 160,
+        "denumire": "Produs 502",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 11.72,
+        "activ": "1"
+    },
+    {
+        "id_produs": 161,
+        "denumire": "Produs 502",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 15.3,
+        "activ": "1"
+    },
+    {
+        "id_produs": 162,
+        "denumire": "Produs 503",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 13.85,
+        "activ": "1"
+    },
+    {
+        "id_produs": 163,
+        "denumire": "Produs 503",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 13.86,
+        "activ": "1"
+    },
+    {
+        "id_produs": 164,
+        "denumire": "Produs 503",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 15.56,
+        "activ": "1"
+    },
+    {
+        "id_produs": 165,
+        "denumire": "Produs 504",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 15.2,
+        "activ": "1"
+    },
+    {
+        "id_produs": 166,
+        "denumire": "Produs 504",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 13,
+        "activ": "1"
+    },
+    {
+        "id_produs": 167,
+        "denumire": "Produs 504",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 15.1,
+        "activ": "1"
+    },
+    {
+        "id_produs": 168,
+        "denumire": "Produs 601",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 15.84,
+        "activ": "1"
+    },
+    {
+        "id_produs": 169,
+        "denumire": "Produs 601",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 17.63,
+        "activ": "1"
+    },
+    {
+        "id_produs": 170,
+        "denumire": "Produs 601",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 18.35,
+        "activ": "1"
+    },
+    {
+        "id_produs": 171,
+        "denumire": "Produs 602",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 12.32,
+        "activ": "1"
+    },
+    {
+        "id_produs": 172,
+        "denumire": "Produs 602",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 11.98,
+        "activ": "1"
+    },
+    {
+        "id_produs": 173,
+        "denumire": "Produs 602",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 19.61,
+        "activ": "1"
+    },
+    {
+        "id_produs": 174,
+        "denumire": "Produs 603",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 13.95,
+        "activ": "1"
+    },
+    {
+        "id_produs": 175,
+        "denumire": "Produs 603",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 13.55,
+        "activ": "1"
+    },
+    {
+        "id_produs": 176,
+        "denumire": "Produs 603",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 18.79,
+        "activ": "1"
+    },
+    {
+        "id_produs": 177,
+        "denumire": "Produs 604",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 10.77,
+        "activ": "1"
+    },
+    {
+        "id_produs": 178,
+        "denumire": "Produs 604",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 13.89,
+        "activ": "1"
+    },
+    {
+        "id_produs": 179,
+        "denumire": "Produs 604",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 15.39,
+        "activ": "1"
+    },
+    {
+        "id_produs": 180,
+        "denumire": "Produs 605",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 11.24,
+        "activ": "1"
+    },
+    {
+        "id_produs": 181,
+        "denumire": "Produs 605",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 11.29,
+        "activ": "1"
+    },
+    {
+        "id_produs": 182,
+        "denumire": "Produs 605",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 17.45,
+        "activ": "1"
+    },
+    {
+        "id_produs": 183,
+        "denumire": "Produs 701",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 14.22,
+        "activ": "1"
+    },
+    {
+        "id_produs": 184,
+        "denumire": "Produs 701",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 15.98,
+        "activ": "1"
+    },
+    {
+        "id_produs": 185,
+        "denumire": "Produs 701",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 13.12,
+        "activ": "1"
+    },
+    {
+        "id_produs": 186,
+        "denumire": "Produs 702",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 12.52,
+        "activ": "1"
+    },
+    {
+        "id_produs": 187,
+        "denumire": "Produs 702",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 13,
+        "activ": "1"
+    },
+    {
+        "id_produs": 188,
+        "denumire": "Produs 702",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 14.78,
+        "activ": "1"
+    },
+    {
+        "id_produs": 189,
+        "denumire": "Produs 703",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 9.06,
+        "activ": "1"
+    },
+    {
+        "id_produs": 190,
+        "denumire": "Produs 703",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 14.72,
+        "activ": "1"
+    },
+    {
+        "id_produs": 191,
+        "denumire": "Produs 703",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 18.63,
+        "activ": "1"
+    },
+    {
+        "id_produs": 192,
+        "denumire": "Produs 704",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 12.22,
+        "activ": "1"
+    },
+    {
+        "id_produs": 193,
+        "denumire": "Produs 704",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 13.06,
+        "activ": "1"
+    },
+    {
+        "id_produs": 194,
+        "denumire": "Produs 704",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 13.61,
+        "activ": "1"
+    },
+    {
+        "id_produs": 195,
+        "denumire": "Produs 705",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 12.37,
+        "activ": "1"
+    },
+    {
+        "id_produs": 196,
+        "denumire": "Produs 705",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 14.52,
+        "activ": "1"
+    },
+    {
+        "id_produs": 197,
+        "denumire": "Produs 705",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 17.44,
+        "activ": "1"
+    },
+    {
+        "id_produs": 198,
+        "denumire": "Produs 801",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 12.66,
+        "activ": "1"
+    },
+    {
+        "id_produs": 199,
+        "denumire": "Produs 801",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 15.25,
+        "activ": "1"
+    },
+    {
+        "id_produs": 200,
+        "denumire": "Produs 801",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 16.59,
+        "activ": "1"
+    },
+    {
+        "id_produs": 201,
+        "denumire": "Produs 802",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 13.23,
+        "activ": "1"
+    },
+    {
+        "id_produs": 202,
+        "denumire": "Produs 802",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 12.95,
+        "activ": "1"
+    },
+    {
+        "id_produs": 203,
+        "denumire": "Produs 802",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 14.75,
+        "activ": "1"
+    },
+    {
+        "id_produs": 204,
+        "denumire": "Produs 803",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 13.56,
+        "activ": "1"
+    },
+    {
+        "id_produs": 205,
+        "denumire": "Produs 803",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 12.82,
+        "activ": "1"
+    },
+    {
+        "id_produs": 206,
+        "denumire": "Produs 803",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 18.29,
+        "activ": "1"
+    },
+    {
+        "id_produs": 207,
+        "denumire": "Produs 804",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 15.59,
+        "activ": "1"
+    },
+    {
+        "id_produs": 208,
+        "denumire": "Produs 804",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 13.33,
+        "activ": "1"
+    },
+    {
+        "id_produs": 209,
+        "denumire": "Produs 804",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 15.65,
+        "activ": "1"
+    },
+    {
+        "id_produs": 210,
+        "denumire": "Produs 805",
+        "dimensiune": "mic",
+        "unitate_masura": "ml",
+        "pret": 13.1,
+        "activ": "1"
+    },
+    {
+        "id_produs": 211,
+        "denumire": "Produs 805",
+        "dimensiune": "mare",
+        "unitate_masura": "ml",
+        "pret": 11.83,
+        "activ": "1"
+    },
+    {
+        "id_produs": 212,
+        "denumire": "Produs 805",
+        "dimensiune": "foare mare",
+        "unitate_masura": "ml",
+        "pret": 18.21,
+        "activ": "1"
+    },
+    {
+        "id_produs": 213,
+        "denumire": "Produs 901",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 11.06,
+        "activ": "1"
+    },
+    {
+        "id_produs": 214,
+        "denumire": "Produs 902",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 11.39,
+        "activ": "1"
+    },
+    {
+        "id_produs": 215,
+        "denumire": "Produs 1001",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 7.58,
+        "activ": "1"
+    },
+    {
+        "id_produs": 216,
+        "denumire": "Produs 1002",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 13.1,
+        "activ": "1"
+    },
+    {
+        "id_produs": 217,
+        "denumire": "Produs 1003",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 9.63,
+        "activ": "1"
+    },
+    {
+        "id_produs": 218,
+        "denumire": "Produs 1004",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 7.67,
+        "activ": "1"
+    },
+    {
+        "id_produs": 219,
+        "denumire": "Produs 1005",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 16.71,
+        "activ": "1"
+    },
+    {
+        "id_produs": 220,
+        "denumire": "Produs 1101",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 5.88,
+        "activ": "1"
+    },
+    {
+        "id_produs": 221,
+        "denumire": "Produs 1102",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 13.43,
+        "activ": "1"
+    },
+    {
+        "id_produs": 222,
+        "denumire": "Produs 1103",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 14.32,
+        "activ": "1"
+    },
+    {
+        "id_produs": 223,
+        "denumire": "Produs 1104",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 11.7,
+        "activ": "1"
+    },
+    {
+        "id_produs": 224,
+        "denumire": "Produs 1201",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 6.58,
+        "activ": "1"
+    },
+    {
+        "id_produs": 225,
+        "denumire": "Produs 1202",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 10.24,
+        "activ": "1"
+    },
+    {
+        "id_produs": 226,
+        "denumire": "Produs 1203",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 17.91,
+        "activ": "1"
+    },
+    {
+        "id_produs": 227,
+        "denumire": "Produs 1301",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 19.19,
+        "activ": "1"
+    },
+    {
+        "id_produs": 228,
+        "denumire": "Produs 1302",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 13.98,
+        "activ": "1"
+    },
+    {
+        "id_produs": 229,
+        "denumire": "Produs 1303",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 9.35,
+        "activ": "1"
+    },
+    {
+        "id_produs": 230,
+        "denumire": "Produs 1304",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 9.31,
+        "activ": "1"
+    },
+    {
+        "id_produs": 231,
+        "denumire": "Produs 1305",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 18.54,
+        "activ": "1"
+    },
+    {
+        "id_produs": 232,
+        "denumire": "Produs 1306",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 12.54,
+        "activ": "1"
+    },
+    {
+        "id_produs": 233,
+        "denumire": "Produs 1401",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 10.24,
+        "activ": "1"
+    },
+    {
+        "id_produs": 234,
+        "denumire": "Produs 1402",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 18.22,
+        "activ": "1"
+    },
+    {
+        "id_produs": 235,
+        "denumire": "Produs 1403",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 18.06,
+        "activ": "1"
+    },
+    {
+        "id_produs": 236,
+        "denumire": "Produs 1404",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 10.6,
+        "activ": "1"
+    },
+    {
+        "id_produs": 237,
+        "denumire": "Produs 1405",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 16.3,
+        "activ": "1"
+    },
+    {
+        "id_produs": 238,
+        "denumire": "Produs 1501",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 8.12,
+        "activ": "1"
+    },
+    {
+        "id_produs": 239,
+        "denumire": "Produs 1502",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 18.29,
+        "activ": "1"
+    },
+    {
+        "id_produs": 240,
+        "denumire": "Produs 1503",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 7.45,
+        "activ": "1"
+    },
+    {
+        "id_produs": 241,
+        "denumire": "Produs 1504",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 8.89,
+        "activ": "1"
+    },
+    {
+        "id_produs": 242,
+        "denumire": "Produs 1601",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 17.17,
+        "activ": "1"
+    },
+    {
+        "id_produs": 243,
+        "denumire": "Produs 1602",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 17.18,
+        "activ": "1"
+    },
+    {
+        "id_produs": 244,
+        "denumire": "Produs 1701",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 18.95,
+        "activ": "1"
+    },
+    {
+        "id_produs": 245,
+        "denumire": "Produs 1702",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 14.99,
+        "activ": "1"
+    },
+    {
+        "id_produs": 246,
+        "denumire": "Produs 1703",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 6.13,
+        "activ": "1"
+    },
+    {
+        "id_produs": 247,
+        "denumire": "Produs 1704",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 8.39,
+        "activ": "1"
+    },
+    {
+        "id_produs": 248,
+        "denumire": "Produs 1801",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 13.84,
+        "activ": "1"
+    },
+    {
+        "id_produs": 249,
+        "denumire": "Produs 1802",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 16.36,
+        "activ": "1"
+    },
+    {
+        "id_produs": 250,
+        "denumire": "Produs 1803",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 14.14,
+        "activ": "1"
+    },
+    {
+        "id_produs": 251,
+        "denumire": "Produs 1804",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 14.25,
+        "activ": "1"
+    },
+    {
+        "id_produs": 252,
+        "denumire": "Produs 1805",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 18,
+        "activ": "1"
+    },
+    {
+        "id_produs": 253,
+        "denumire": "Produs 1901",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 19.65,
+        "activ": "1"
+    },
+    {
+        "id_produs": 254,
+        "denumire": "Produs 1902",
+        "dimensiune": "one size",
+        "unitate_masura": "buc",
+        "pret": 18.13,
+        "activ": "1"
+    },
+    {
+        "id_produs": 255,
+        "denumire": "Produs 1903",
+        "dimensiune": "one size",
+        "unitate_masura": "g",
+        "pret": 11.1,
+        "activ": "1"
+    }
+]

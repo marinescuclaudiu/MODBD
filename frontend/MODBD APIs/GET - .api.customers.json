@@ -1,0 +1,512 @@
+[
+    {
+        "id_client": 1,
+        "email": "client1.prenume1@example.com",
+        "password": "password1"
+    },
+    {
+        "id_client": 2,
+        "email": "client2.prenume2@example.com",
+        "password": "password2"
+    },
+    {
+        "id_client": 3,
+        "email": "client3.prenume3@example.com",
+        "password": "password3"
+    },
+    {
+        "id_client": 4,
+        "email": "client4.prenume4@example.com",
+        "password": "password4"
+    },
+    {
+        "id_client": 5,
+        "email": "client5.prenume5@example.com",
+        "password": "password5"
+    },
+    {
+        "id_client": 6,
+        "email": "client6.prenume6@example.com",
+        "password": "password6"
+    },
+    {
+        "id_client": 7,
+        "email": "client7.prenume7@example.com",
+        "password": "password7"
+    },
+    {
+        "id_client": 8,
+        "email": "client8.prenume8@example.com",
+        "password": "password8"
+    },
+    {
+        "id_client": 9,
+        "email": "client9.prenume9@example.com",
+        "password": "password9"
+    },
+    {
+        "id_client": 10,
+        "email": "client10.prenume10@example.com",
+        "password": "password10"
+    },
+    {
+        "id_client": 11,
+        "email": "client11.prenume11@example.com",
+        "password": "password11"
+    },
+    {
+        "id_client": 12,
+        "email": "client12.prenume12@example.com",
+        "password": "password12"
+    },
+    {
+        "id_client": 13,
+        "email": "client13.prenume13@example.com",
+        "password": "password13"
+    },
+    {
+        "id_client": 14,
+        "email": "client14.prenume14@example.com",
+        "password": "password14"
+    },
+    {
+        "id_client": 15,
+        "email": "client15.prenume15@example.com",
+        "password": "password15"
+    },
+    {
+        "id_client": 16,
+        "email": "client16.prenume16@example.com",
+        "password": "password16"
+    },
+    {
+        "id_client": 17,
+        "email": "client17.prenume17@example.com",
+        "password": "password17"
+    },
+    {
+        "id_client": 18,
+        "email": "client18.prenume18@example.com",
+        "password": "password18"
+    },
+    {
+        "id_client": 19,
+        "email": "client19.prenume19@example.com",
+        "password": "password19"
+    },
+    {
+        "id_client": 20,
+        "email": "client20.prenume20@example.com",
+        "password": "password20"
+    },
+    {
+        "id_client": 21,
+        "email": "client21.prenume21@example.com",
+        "password": "password21"
+    },
+    {
+        "id_client": 22,
+        "email": "client22.prenume22@example.com",
+        "password": "password22"
+    },
+    {
+        "id_client": 23,
+        "email": "client23.prenume23@example.com",
+        "password": "password23"
+    },
+    {
+        "id_client": 24,
+        "email": "client24.prenume24@example.com",
+        "password": "password24"
+    },
+    {
+        "id_client": 25,
+        "email": "client25.prenume25@example.com",
+        "password": "password25"
+    },
+    {
+        "id_client": 26,
+        "email": "client26.prenume26@example.com",
+        "password": "password26"
+    },
+    {
+        "id_client": 27,
+        "email": "client27.prenume27@example.com",
+        "password": "password27"
+    },
+    {
+        "id_client": 28,
+        "email": "client28.prenume28@example.com",
+        "password": "password28"
+    },
+    {
+        "id_client": 29,
+        "email": "client29.prenume29@example.com",
+        "password": "password29"
+    },
+    {
+        "id_client": 30,
+        "email": "client30.prenume30@example.com",
+        "password": "password30"
+    },
+    {
+        "id_client": 31,
+        "email": "client31.prenume31@example.com",
+        "password": "password31"
+    },
+    {
+        "id_client": 32,
+        "email": "client32.prenume32@example.com",
+        "password": "password32"
+    },
+    {
+        "id_client": 33,
+        "email": "client33.prenume33@example.com",
+        "password": "password33"
+    },
+    {
+        "id_client": 34,
+        "email": "client34.prenume34@example.com",
+        "password": "password34"
+    },
+    {
+        "id_client": 35,
+        "email": "client35.prenume35@example.com",
+        "password": "password35"
+    },
+    {
+        "id_client": 36,
+        "email": "client36.prenume36@example.com",
+        "password": "password36"
+    },
+    {
+        "id_client": 37,
+        "email": "client37.prenume37@example.com",
+        "password": "password37"
+    },
+    {
+        "id_client": 38,
+        "email": "client38.prenume38@example.com",
+        "password": "password38"
+    },
+    {
+        "id_client": 39,
+        "email": "client39.prenume39@example.com",
+        "password": "password39"
+    },
+    {
+        "id_client": 40,
+        "email": "client40.prenume40@example.com",
+        "password": "password40"
+    },
+    {
+        "id_client": 41,
+        "email": "client41.prenume41@example.com",
+        "password": "password41"
+    },
+    {
+        "id_client": 42,
+        "email": "client42.prenume42@example.com",
+        "password": "password42"
+    },
+    {
+        "id_client": 43,
+        "email": "client43.prenume43@example.com",
+        "password": "password43"
+    },
+    {
+        "id_client": 44,
+        "email": "client44.prenume44@example.com",
+        "password": "password44"
+    },
+    {
+        "id_client": 45,
+        "email": "client45.prenume45@example.com",
+        "password": "password45"
+    },
+    {
+        "id_client": 46,
+        "email": "client46.prenume46@example.com",
+        "password": "password46"
+    },
+    {
+        "id_client": 47,
+        "email": "client47.prenume47@example.com",
+        "password": "password47"
+    },
+    {
+        "id_client": 48,
+        "email": "client48.prenume48@example.com",
+        "password": "password48"
+    },
+    {
+        "id_client": 49,
+        "email": "client49.prenume49@example.com",
+        "password": "password49"
+    },
+    {
+        "id_client": 50,
+        "email": "client50.prenume50@example.com",
+        "password": "password50"
+    },
+    {
+        "id_client": 51,
+        "email": "client51.prenume51@example.com",
+        "password": "password51"
+    },
+    {
+        "id_client": 52,
+        "email": "client52.prenume52@example.com",
+        "password": "password52"
+    },
+    {
+        "id_client": 53,
+        "email": "client53.prenume53@example.com",
+        "password": "password53"
+    },
+    {
+        "id_client": 54,
+        "email": "client54.prenume54@example.com",
+        "password": "password54"
+    },
+    {
+        "id_client": 55,
+        "email": "client55.prenume55@example.com",
+        "password": "password55"
+    },
+    {
+        "id_client": 56,
+        "email": "client56.prenume56@example.com",
+        "password": "password56"
+    },
+    {
+        "id_client": 57,
+        "email": "client57.prenume57@example.com",
+        "password": "password57"
+    },
+    {
+        "id_client": 58,
+        "email": "client58.prenume58@example.com",
+        "password": "password58"
+    },
+    {
+        "id_client": 59,
+        "email": "client59.prenume59@example.com",
+        "password": "password59"
+    },
+    {
+        "id_client": 60,
+        "email": "client60.prenume60@example.com",
+        "password": "password60"
+    },
+    {
+        "id_client": 61,
+        "email": "client61.prenume61@example.com",
+        "password": "password61"
+    },
+    {
+        "id_client": 62,
+        "email": "client62.prenume62@example.com",
+        "password": "password62"
+    },
+    {
+        "id_client": 63,
+        "email": "client63.prenume63@example.com",
+        "password": "password63"
+    },
+    {
+        "id_client": 64,
+        "email": "client64.prenume64@example.com",
+        "password": "password64"
+    },
+    {
+        "id_client": 65,
+        "email": "client65.prenume65@example.com",
+        "password": "password65"
+    },
+    {
+        "id_client": 66,
+        "email": "client66.prenume66@example.com",
+        "password": "password66"
+    },
+    {
+        "id_client": 67,
+        "email": "client67.prenume67@example.com",
+        "password": "password67"
+    },
+    {
+        "id_client": 68,
+        "email": "client68.prenume68@example.com",
+        "password": "password68"
+    },
+    {
+        "id_client": 69,
+        "email": "client69.prenume69@example.com",
+        "password": "password69"
+    },
+    {
+        "id_client": 70,
+        "email": "client70.prenume70@example.com",
+        "password": "password70"
+    },
+    {
+        "id_client": 71,
+        "email": "client71.prenume71@example.com",
+        "password": "password71"
+    },
+    {
+        "id_client": 72,
+        "email": "client72.prenume72@example.com",
+        "password": "password72"
+    },
+    {
+        "id_client": 73,
+        "email": "client73.prenume73@example.com",
+        "password": "password73"
+    },
+    {
+        "id_client": 74,
+        "email": "client74.prenume74@example.com",
+        "password": "password74"
+    },
+    {
+        "id_client": 75,
+        "email": "client75.prenume75@example.com",
+        "password": "password75"
+    },
+    {
+        "id_client": 76,
+        "email": "client76.prenume76@example.com",
+        "password": "password76"
+    },
+    {
+        "id_client": 77,
+        "email": "client77.prenume77@example.com",
+        "password": "password77"
+    },
+    {
+        "id_client": 78,
+        "email": "client78.prenume78@example.com",
+        "password": "password78"
+    },
+    {
+        "id_client": 79,
+        "email": "client79.prenume79@example.com",
+        "password": "password79"
+    },
+    {
+        "id_client": 80,
+        "email": "client80.prenume80@example.com",
+        "password": "password80"
+    },
+    {
+        "id_client": 81,
+        "email": "client81.prenume81@example.com",
+        "password": "password81"
+    },
+    {
+        "id_client": 82,
+        "email": "client82.prenume82@example.com",
+        "password": "password82"
+    },
+    {
+        "id_client": 83,
+        "email": "client83.prenume83@example.com",
+        "password": "password83"
+    },
+    {
+        "id_client": 84,
+        "email": "client84.prenume84@example.com",
+        "password": "password84"
+    },
+    {
+        "id_client": 85,
+        "email": "client85.prenume85@example.com",
+        "password": "password85"
+    },
+    {
+        "id_client": 86,
+        "email": "client86.prenume86@example.com",
+        "password": "password86"
+    },
+    {
+        "id_client": 87,
+        "email": "client87.prenume87@example.com",
+        "password": "password87"
+    },
+    {
+        "id_client": 88,
+        "email": "client88.prenume88@example.com",
+        "password": "password88"
+    },
+    {
+        "id_client": 89,
+        "email": "client89.prenume89@example.com",
+        "password": "password89"
+    },
+    {
+        "id_client": 90,
+        "email": "client90.prenume90@example.com",
+        "password": "password90"
+    },
+    {
+        "id_client": 91,
+        "email": "client91.prenume91@example.com",
+        "password": "password91"
+    },
+    {
+        "id_client": 92,
+        "email": "client92.prenume92@example.com",
+        "password": "password92"
+    },
+    {
+        "id_client": 93,
+        "email": "client93.prenume93@example.com",
+        "password": "password93"
+    },
+    {
+        "id_client": 94,
+        "email": "client94.prenume94@example.com",
+        "password": "password94"
+    },
+    {
+        "id_client": 95,
+        "email": "client95.prenume95@example.com",
+        "password": "password95"
+    },
+    {
+        "id_client": 96,
+        "email": "client96.prenume96@example.com",
+        "password": "password96"
+    },
+    {
+        "id_client": 97,
+        "email": "client97.prenume97@example.com",
+        "password": "password97"
+    },
+    {
+        "id_client": 98,
+        "email": "client98.prenume98@example.com",
+        "password": "password98"
+    },
+    {
+        "id_client": 99,
+        "email": "client99.prenume99@example.com",
+        "password": "password99"
+    },
+    {
+        "id_client": 100,
+        "email": "client100.prenume100@example.com",
+        "password": "password100"
+    },
+    {
+        "id_client": 102,
+        "email": "sorinsenzor@gmail.com",
+        "password": "whatever"
+    },
+    {
+        "id_client": 101,
+        "email": "sorinsenzor@gmail.com",
+        "password": "whatever"
+    }
+]

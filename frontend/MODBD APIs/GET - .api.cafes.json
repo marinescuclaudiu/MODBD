@@ -1,0 +1,902 @@
+[
+    {
+        "id_cafenea": 1,
+        "nume_cafenea": "Cafenea 1",
+        "strada": "Strada B",
+        "numar": "2",
+        "oras": "Oras 1",
+        "judet": "Judet 1",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 9,
+        "nume_cafenea": "Cafenea 9",
+        "strada": "Strada J",
+        "numar": "10",
+        "oras": "Oras 9",
+        "judet": "Judet 9",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 17,
+        "nume_cafenea": "Cafenea 17",
+        "strada": "Strada R",
+        "numar": "18",
+        "oras": "Oras 17",
+        "judet": "Judet 17",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 25,
+        "nume_cafenea": "Cafenea 25",
+        "strada": "Strada Z",
+        "numar": "26",
+        "oras": "Oras 25",
+        "judet": "Judet 25",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 33,
+        "nume_cafenea": "Cafenea 33",
+        "strada": "Strada H",
+        "numar": "34",
+        "oras": "Oras 33",
+        "judet": "Judet 33",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 41,
+        "nume_cafenea": "Cafenea 41",
+        "strada": "Strada P",
+        "numar": "42",
+        "oras": "Oras 41",
+        "judet": "Judet 41",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 42,
+        "nume_cafenea": "Cafenea 42",
+        "strada": "Strada Q",
+        "numar": "43",
+        "oras": "Oras 42",
+        "judet": "Judet 1",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 50,
+        "nume_cafenea": "Cafenea 50",
+        "strada": "Strada Y",
+        "numar": "1",
+        "oras": "Oras 50",
+        "judet": "Judet 9",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 58,
+        "nume_cafenea": "Cafenea 58",
+        "strada": "Strada G",
+        "numar": "9",
+        "oras": "Oras 58",
+        "judet": "Judet 17",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 66,
+        "nume_cafenea": "Cafenea 66",
+        "strada": "Strada O",
+        "numar": "17",
+        "oras": "Oras 66",
+        "judet": "Judet 25",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 74,
+        "nume_cafenea": "Cafenea 74",
+        "strada": "Strada W",
+        "numar": "25",
+        "oras": "Oras 74",
+        "judet": "Judet 33",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 82,
+        "nume_cafenea": "Cafenea 82",
+        "strada": "Strada E",
+        "numar": "33",
+        "oras": "Oras 82",
+        "judet": "Judet 41",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 83,
+        "nume_cafenea": "Cafenea 83",
+        "strada": "Strada F",
+        "numar": "34",
+        "oras": "Oras 83",
+        "judet": "Judet 1",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 91,
+        "nume_cafenea": "Cafenea 91",
+        "strada": "Strada N",
+        "numar": "42",
+        "oras": "Oras 91",
+        "judet": "Judet 9",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 99,
+        "nume_cafenea": "Cafenea 99",
+        "strada": "Strada V",
+        "numar": "50",
+        "oras": "Oras 99",
+        "judet": "Judet 17",
+        "regiune": "Bucuresti-Ilfov"
+    },
+    {
+        "id_cafenea": 2,
+        "nume_cafenea": "Cafenea 2",
+        "strada": "Strada C",
+        "numar": "3",
+        "oras": "Oras 2",
+        "judet": "Judet 2",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 3,
+        "nume_cafenea": "Cafenea 3",
+        "strada": "Strada D",
+        "numar": "4",
+        "oras": "Oras 3",
+        "judet": "Judet 3",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 4,
+        "nume_cafenea": "Cafenea 4",
+        "strada": "Strada E",
+        "numar": "5",
+        "oras": "Oras 4",
+        "judet": "Judet 4",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 5,
+        "nume_cafenea": "Cafenea 5",
+        "strada": "Strada F",
+        "numar": "6",
+        "oras": "Oras 5",
+        "judet": "Judet 5",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 6,
+        "nume_cafenea": "Cafenea 6",
+        "strada": "Strada G",
+        "numar": "7",
+        "oras": "Oras 6",
+        "judet": "Judet 6",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 7,
+        "nume_cafenea": "Cafenea 7",
+        "strada": "Strada H",
+        "numar": "8",
+        "oras": "Oras 7",
+        "judet": "Judet 7",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 8,
+        "nume_cafenea": "Cafenea 8",
+        "strada": "Strada I",
+        "numar": "9",
+        "oras": "Oras 8",
+        "judet": "Judet 8",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 10,
+        "nume_cafenea": "Cafenea 10",
+        "strada": "Strada K",
+        "numar": "11",
+        "oras": "Oras 10",
+        "judet": "Judet 10",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 11,
+        "nume_cafenea": "Cafenea 11",
+        "strada": "Strada L",
+        "numar": "12",
+        "oras": "Oras 11",
+        "judet": "Judet 11",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 12,
+        "nume_cafenea": "Cafenea 12",
+        "strada": "Strada M",
+        "numar": "13",
+        "oras": "Oras 12",
+        "judet": "Judet 12",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 13,
+        "nume_cafenea": "Cafenea 13",
+        "strada": "Strada N",
+        "numar": "14",
+        "oras": "Oras 13",
+        "judet": "Judet 13",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 14,
+        "nume_cafenea": "Cafenea 14",
+        "strada": "Strada O",
+        "numar": "15",
+        "oras": "Oras 14",
+        "judet": "Judet 14",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 15,
+        "nume_cafenea": "Cafenea 15",
+        "strada": "Strada P",
+        "numar": "16",
+        "oras": "Oras 15",
+        "judet": "Judet 15",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 16,
+        "nume_cafenea": "Cafenea 16",
+        "strada": "Strada Q",
+        "numar": "17",
+        "oras": "Oras 16",
+        "judet": "Judet 16",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 18,
+        "nume_cafenea": "Cafenea 18",
+        "strada": "Strada S",
+        "numar": "19",
+        "oras": "Oras 18",
+        "judet": "Judet 18",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 19,
+        "nume_cafenea": "Cafenea 19",
+        "strada": "Strada T",
+        "numar": "20",
+        "oras": "Oras 19",
+        "judet": "Judet 19",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 20,
+        "nume_cafenea": "Cafenea 20",
+        "strada": "Strada U",
+        "numar": "21",
+        "oras": "Oras 20",
+        "judet": "Judet 20",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 21,
+        "nume_cafenea": "Cafenea 21",
+        "strada": "Strada V",
+        "numar": "22",
+        "oras": "Oras 21",
+        "judet": "Judet 21",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 22,
+        "nume_cafenea": "Cafenea 22",
+        "strada": "Strada W",
+        "numar": "23",
+        "oras": "Oras 22",
+        "judet": "Judet 22",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 23,
+        "nume_cafenea": "Cafenea 23",
+        "strada": "Strada X",
+        "numar": "24",
+        "oras": "Oras 23",
+        "judet": "Judet 23",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 24,
+        "nume_cafenea": "Cafenea 24",
+        "strada": "Strada Y",
+        "numar": "25",
+        "oras": "Oras 24",
+        "judet": "Judet 24",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 26,
+        "nume_cafenea": "Cafenea 26",
+        "strada": "Strada A",
+        "numar": "27",
+        "oras": "Oras 26",
+        "judet": "Judet 26",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 27,
+        "nume_cafenea": "Cafenea 27",
+        "strada": "Strada B",
+        "numar": "28",
+        "oras": "Oras 27",
+        "judet": "Judet 27",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 28,
+        "nume_cafenea": "Cafenea 28",
+        "strada": "Strada C",
+        "numar": "29",
+        "oras": "Oras 28",
+        "judet": "Judet 28",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 29,
+        "nume_cafenea": "Cafenea 29",
+        "strada": "Strada D",
+        "numar": "30",
+        "oras": "Oras 29",
+        "judet": "Judet 29",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 30,
+        "nume_cafenea": "Cafenea 30",
+        "strada": "Strada E",
+        "numar": "31",
+        "oras": "Oras 30",
+        "judet": "Judet 30",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 31,
+        "nume_cafenea": "Cafenea 31",
+        "strada": "Strada F",
+        "numar": "32",
+        "oras": "Oras 31",
+        "judet": "Judet 31",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 32,
+        "nume_cafenea": "Cafenea 32",
+        "strada": "Strada G",
+        "numar": "33",
+        "oras": "Oras 32",
+        "judet": "Judet 32",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 34,
+        "nume_cafenea": "Cafenea 34",
+        "strada": "Strada I",
+        "numar": "35",
+        "oras": "Oras 34",
+        "judet": "Judet 34",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 35,
+        "nume_cafenea": "Cafenea 35",
+        "strada": "Strada J",
+        "numar": "36",
+        "oras": "Oras 35",
+        "judet": "Judet 35",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 36,
+        "nume_cafenea": "Cafenea 36",
+        "strada": "Strada K",
+        "numar": "37",
+        "oras": "Oras 36",
+        "judet": "Judet 36",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 37,
+        "nume_cafenea": "Cafenea 37",
+        "strada": "Strada L",
+        "numar": "38",
+        "oras": "Oras 37",
+        "judet": "Judet 37",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 38,
+        "nume_cafenea": "Cafenea 38",
+        "strada": "Strada M",
+        "numar": "39",
+        "oras": "Oras 38",
+        "judet": "Judet 38",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 39,
+        "nume_cafenea": "Cafenea 39",
+        "strada": "Strada N",
+        "numar": "40",
+        "oras": "Oras 39",
+        "judet": "Judet 39",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 40,
+        "nume_cafenea": "Cafenea 40",
+        "strada": "Strada O",
+        "numar": "41",
+        "oras": "Oras 40",
+        "judet": "Judet 40",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 43,
+        "nume_cafenea": "Cafenea 43",
+        "strada": "Strada R",
+        "numar": "44",
+        "oras": "Oras 43",
+        "judet": "Judet 2",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 44,
+        "nume_cafenea": "Cafenea 44",
+        "strada": "Strada S",
+        "numar": "45",
+        "oras": "Oras 44",
+        "judet": "Judet 3",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 45,
+        "nume_cafenea": "Cafenea 45",
+        "strada": "Strada T",
+        "numar": "46",
+        "oras": "Oras 45",
+        "judet": "Judet 4",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 46,
+        "nume_cafenea": "Cafenea 46",
+        "strada": "Strada U",
+        "numar": "47",
+        "oras": "Oras 46",
+        "judet": "Judet 5",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 47,
+        "nume_cafenea": "Cafenea 47",
+        "strada": "Strada V",
+        "numar": "48",
+        "oras": "Oras 47",
+        "judet": "Judet 6",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 48,
+        "nume_cafenea": "Cafenea 48",
+        "strada": "Strada W",
+        "numar": "49",
+        "oras": "Oras 48",
+        "judet": "Judet 7",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 49,
+        "nume_cafenea": "Cafenea 49",
+        "strada": "Strada X",
+        "numar": "50",
+        "oras": "Oras 49",
+        "judet": "Judet 8",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 51,
+        "nume_cafenea": "Cafenea 51",
+        "strada": "Strada Z",
+        "numar": "2",
+        "oras": "Oras 51",
+        "judet": "Judet 10",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 52,
+        "nume_cafenea": "Cafenea 52",
+        "strada": "Strada A",
+        "numar": "3",
+        "oras": "Oras 52",
+        "judet": "Judet 11",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 53,
+        "nume_cafenea": "Cafenea 53",
+        "strada": "Strada B",
+        "numar": "4",
+        "oras": "Oras 53",
+        "judet": "Judet 12",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 54,
+        "nume_cafenea": "Cafenea 54",
+        "strada": "Strada C",
+        "numar": "5",
+        "oras": "Oras 54",
+        "judet": "Judet 13",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 55,
+        "nume_cafenea": "Cafenea 55",
+        "strada": "Strada D",
+        "numar": "6",
+        "oras": "Oras 55",
+        "judet": "Judet 14",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 56,
+        "nume_cafenea": "Cafenea 56",
+        "strada": "Strada E",
+        "numar": "7",
+        "oras": "Oras 56",
+        "judet": "Judet 15",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 57,
+        "nume_cafenea": "Cafenea 57",
+        "strada": "Strada F",
+        "numar": "8",
+        "oras": "Oras 57",
+        "judet": "Judet 16",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 59,
+        "nume_cafenea": "Cafenea 59",
+        "strada": "Strada H",
+        "numar": "10",
+        "oras": "Oras 59",
+        "judet": "Judet 18",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 60,
+        "nume_cafenea": "Cafenea 60",
+        "strada": "Strada I",
+        "numar": "11",
+        "oras": "Oras 60",
+        "judet": "Judet 19",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 61,
+        "nume_cafenea": "Cafenea 61",
+        "strada": "Strada J",
+        "numar": "12",
+        "oras": "Oras 61",
+        "judet": "Judet 20",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 62,
+        "nume_cafenea": "Cafenea 62",
+        "strada": "Strada K",
+        "numar": "13",
+        "oras": "Oras 62",
+        "judet": "Judet 21",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 63,
+        "nume_cafenea": "Cafenea 63",
+        "strada": "Strada L",
+        "numar": "14",
+        "oras": "Oras 63",
+        "judet": "Judet 22",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 64,
+        "nume_cafenea": "Cafenea 64",
+        "strada": "Strada M",
+        "numar": "15",
+        "oras": "Oras 64",
+        "judet": "Judet 23",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 65,
+        "nume_cafenea": "Cafenea 65",
+        "strada": "Strada N",
+        "numar": "16",
+        "oras": "Oras 65",
+        "judet": "Judet 24",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 67,
+        "nume_cafenea": "Cafenea 67",
+        "strada": "Strada P",
+        "numar": "18",
+        "oras": "Oras 67",
+        "judet": "Judet 26",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 68,
+        "nume_cafenea": "Cafenea 68",
+        "strada": "Strada Q",
+        "numar": "19",
+        "oras": "Oras 68",
+        "judet": "Judet 27",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 69,
+        "nume_cafenea": "Cafenea 69",
+        "strada": "Strada R",
+        "numar": "20",
+        "oras": "Oras 69",
+        "judet": "Judet 28",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 70,
+        "nume_cafenea": "Cafenea 70",
+        "strada": "Strada S",
+        "numar": "21",
+        "oras": "Oras 70",
+        "judet": "Judet 29",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 71,
+        "nume_cafenea": "Cafenea 71",
+        "strada": "Strada T",
+        "numar": "22",
+        "oras": "Oras 71",
+        "judet": "Judet 30",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 72,
+        "nume_cafenea": "Cafenea 72",
+        "strada": "Strada U",
+        "numar": "23",
+        "oras": "Oras 72",
+        "judet": "Judet 31",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 73,
+        "nume_cafenea": "Cafenea 73",
+        "strada": "Strada V",
+        "numar": "24",
+        "oras": "Oras 73",
+        "judet": "Judet 32",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 75,
+        "nume_cafenea": "Cafenea 75",
+        "strada": "Strada X",
+        "numar": "26",
+        "oras": "Oras 75",
+        "judet": "Judet 34",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 76,
+        "nume_cafenea": "Cafenea 76",
+        "strada": "Strada Y",
+        "numar": "27",
+        "oras": "Oras 76",
+        "judet": "Judet 35",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 77,
+        "nume_cafenea": "Cafenea 77",
+        "strada": "Strada Z",
+        "numar": "28",
+        "oras": "Oras 77",
+        "judet": "Judet 36",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 78,
+        "nume_cafenea": "Cafenea 78",
+        "strada": "Strada A",
+        "numar": "29",
+        "oras": "Oras 78",
+        "judet": "Judet 37",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 79,
+        "nume_cafenea": "Cafenea 79",
+        "strada": "Strada B",
+        "numar": "30",
+        "oras": "Oras 79",
+        "judet": "Judet 38",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 80,
+        "nume_cafenea": "Cafenea 80",
+        "strada": "Strada C",
+        "numar": "31",
+        "oras": "Oras 80",
+        "judet": "Judet 39",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 81,
+        "nume_cafenea": "Cafenea 81",
+        "strada": "Strada D",
+        "numar": "32",
+        "oras": "Oras 81",
+        "judet": "Judet 40",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 84,
+        "nume_cafenea": "Cafenea 84",
+        "strada": "Strada G",
+        "numar": "35",
+        "oras": "Oras 84",
+        "judet": "Judet 2",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 85,
+        "nume_cafenea": "Cafenea 85",
+        "strada": "Strada H",
+        "numar": "36",
+        "oras": "Oras 85",
+        "judet": "Judet 3",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 86,
+        "nume_cafenea": "Cafenea 86",
+        "strada": "Strada I",
+        "numar": "37",
+        "oras": "Oras 86",
+        "judet": "Judet 4",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 87,
+        "nume_cafenea": "Cafenea 87",
+        "strada": "Strada J",
+        "numar": "38",
+        "oras": "Oras 87",
+        "judet": "Judet 5",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 88,
+        "nume_cafenea": "Cafenea 88",
+        "strada": "Strada K",
+        "numar": "39",
+        "oras": "Oras 88",
+        "judet": "Judet 6",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 89,
+        "nume_cafenea": "Cafenea 89",
+        "strada": "Strada L",
+        "numar": "40",
+        "oras": "Oras 89",
+        "judet": "Judet 7",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 90,
+        "nume_cafenea": "Cafenea 90",
+        "strada": "Strada M",
+        "numar": "41",
+        "oras": "Oras 90",
+        "judet": "Judet 8",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 92,
+        "nume_cafenea": "Cafenea 92",
+        "strada": "Strada O",
+        "numar": "43",
+        "oras": "Oras 92",
+        "judet": "Judet 10",
+        "regiune": "Nord-Est"
+    },
+    {
+        "id_cafenea": 93,
+        "nume_cafenea": "Cafenea 93",
+        "strada": "Strada P",
+        "numar": "44",
+        "oras": "Oras 93",
+        "judet": "Judet 11",
+        "regiune": "Sud-Est"
+    },
+    {
+        "id_cafenea": 94,
+        "nume_cafenea": "Cafenea 94",
+        "strada": "Strada Q",
+        "numar": "45",
+        "oras": "Oras 94",
+        "judet": "Judet 12",
+        "regiune": "Sud-Muntenia"
+    },
+    {
+        "id_cafenea": 95,
+        "nume_cafenea": "Cafenea 95",
+        "strada": "Strada R",
+        "numar": "46",
+        "oras": "Oras 95",
+        "judet": "Judet 13",
+        "regiune": "Sud-Vest Oltenia"
+    },
+    {
+        "id_cafenea": 96,
+        "nume_cafenea": "Cafenea 96",
+        "strada": "Strada S",
+        "numar": "47",
+        "oras": "Oras 96",
+        "judet": "Judet 14",
+        "regiune": "Vest"
+    },
+    {
+        "id_cafenea": 97,
+        "nume_cafenea": "Cafenea 97",
+        "strada": "Strada T",
+        "numar": "48",
+        "oras": "Oras 97",
+        "judet": "Judet 15",
+        "regiune": "Nord-Vest"
+    },
+    {
+        "id_cafenea": 98,
+        "nume_cafenea": "Cafenea 98",
+        "strada": "Strada U",
+        "numar": "49",
+        "oras": "Oras 98",
+        "judet": "Judet 16",
+        "regiune": "Centru"
+    },
+    {
+        "id_cafenea": 100,
+        "nume_cafenea": "Cafenea 100",
+        "strada": "Strada W",
+        "numar": "1",
+        "oras": "Oras 100",
+        "judet": "Judet 18",
+        "regiune": "Nord-Est"
+    }
+]

@@ -1,0 +1,1472 @@
+[
+    {
+        "id_cafenea": 1,
+        "nume_cafenea": "Cafenea 1",
+        "id_materie": 1,
+        "nume_materie": "Cafea Arabica",
+        "cantitate": 9
+    },
+    {
+        "id_cafenea": 9,
+        "nume_cafenea": "Cafenea 9",
+        "id_materie": 9,
+        "nume_materie": "?erve?ele",
+        "cantitate": 39
+    },
+    {
+        "id_cafenea": 17,
+        "nume_cafenea": "Cafenea 17",
+        "id_materie": 17,
+        "nume_materie": "Menta",
+        "cantitate": 42
+    },
+    {
+        "id_cafenea": 25,
+        "nume_cafenea": "Cafenea 25",
+        "id_materie": 25,
+        "nume_materie": "Nuci pecan",
+        "cantitate": 11
+    },
+    {
+        "id_cafenea": 33,
+        "nume_cafenea": "Cafenea 33",
+        "id_materie": 3,
+        "nume_materie": "Zah?r",
+        "cantitate": 18
+    },
+    {
+        "id_cafenea": 41,
+        "nume_cafenea": "Cafenea 41",
+        "id_materie": 11,
+        "nume_materie": "Scor?i?oar?",
+        "cantitate": 18
+    },
+    {
+        "id_cafenea": 42,
+        "nume_cafenea": "Cafenea 42",
+        "id_materie": 12,
+        "nume_materie": "Fri?c?",
+        "cantitate": 19
+    },
+    {
+        "id_cafenea": 50,
+        "nume_cafenea": "Cafenea 50",
+        "id_materie": 20,
+        "nume_materie": "Lapte de soia",
+        "cantitate": 34
+    },
+    {
+        "id_cafenea": 58,
+        "nume_cafenea": "Cafenea 58",
+        "id_materie": 28,
+        "nume_materie": "Pulbere de vanilie",
+        "cantitate": 36
+    },
+    {
+        "id_cafenea": 66,
+        "nume_cafenea": "Cafenea 66",
+        "id_materie": 6,
+        "nume_materie": "Pahare",
+        "cantitate": 8
+    },
+    {
+        "id_cafenea": 1,
+        "nume_cafenea": "Cafenea 1",
+        "id_materie": 11,
+        "nume_materie": "Scor?i?oar?",
+        "cantitate": 29
+    },
+    {
+        "id_cafenea": 9,
+        "nume_cafenea": "Cafenea 9",
+        "id_materie": 19,
+        "nume_materie": "Lapte de migdale",
+        "cantitate": 19
+    },
+    {
+        "id_cafenea": 17,
+        "nume_cafenea": "Cafenea 17",
+        "id_materie": 27,
+        "nume_materie": "Lapte condensat",
+        "cantitate": 25
+    },
+    {
+        "id_cafenea": 25,
+        "nume_cafenea": "Cafenea 25",
+        "id_materie": 5,
+        "nume_materie": "Sirop de caramel",
+        "cantitate": 49
+    },
+    {
+        "id_cafenea": 33,
+        "nume_cafenea": "Cafenea 33",
+        "id_materie": 13,
+        "nume_materie": "Alune",
+        "cantitate": 41
+    },
+    {
+        "id_cafenea": 41,
+        "nume_cafenea": "Cafenea 41",
+        "id_materie": 21,
+        "nume_materie": "F?in? de gr�u",
+        "cantitate": 42
+    },
+    {
+        "id_cafenea": 42,
+        "nume_cafenea": "Cafenea 42",
+        "id_materie": 22,
+        "nume_materie": "Miere",
+        "cantitate": 49
+    },
+    {
+        "id_cafenea": 50,
+        "nume_cafenea": "Cafenea 50",
+        "id_materie": 30,
+        "nume_materie": "C?p?uni proaspete",
+        "cantitate": 32
+    },
+    {
+        "id_cafenea": 58,
+        "nume_cafenea": "Cafenea 58",
+        "id_materie": 8,
+        "nume_materie": "Praf de cacao",
+        "cantitate": 37
+    },
+    {
+        "id_cafenea": 66,
+        "nume_cafenea": "Cafenea 66",
+        "id_materie": 16,
+        "nume_materie": "Sirop de vanilie",
+        "cantitate": 18
+    },
+    {
+        "id_cafenea": 1,
+        "nume_cafenea": "Cafenea 1",
+        "id_materie": 21,
+        "nume_materie": "F?in? de gr�u",
+        "cantitate": 19
+    },
+    {
+        "id_cafenea": 9,
+        "nume_cafenea": "Cafenea 9",
+        "id_materie": 29,
+        "nume_materie": "?erbet",
+        "cantitate": 8
+    },
+    {
+        "id_cafenea": 17,
+        "nume_cafenea": "Cafenea 17",
+        "id_materie": 7,
+        "nume_materie": "Linguri",
+        "cantitate": 17
+    },
+    {
+        "id_cafenea": 25,
+        "nume_cafenea": "Cafenea 25",
+        "id_materie": 15,
+        "nume_materie": "Apa plat?",
+        "cantitate": 7
+    },
+    {
+        "id_cafenea": 33,
+        "nume_cafenea": "Cafenea 33",
+        "id_materie": 23,
+        "nume_materie": "Glazur? de ciocolat?",
+        "cantitate": 11
+    },
+    {
+        "id_cafenea": 41,
+        "nume_cafenea": "Cafenea 41",
+        "id_materie": 1,
+        "nume_materie": "Cafea Arabica",
+        "cantitate": 24
+    },
+    {
+        "id_cafenea": 42,
+        "nume_cafenea": "Cafenea 42",
+        "id_materie": 2,
+        "nume_materie": "Lapte",
+        "cantitate": 29
+    },
+    {
+        "id_cafenea": 50,
+        "nume_cafenea": "Cafenea 50",
+        "id_materie": 10,
+        "nume_materie": "L?m�ie",
+        "cantitate": 42
+    },
+    {
+        "id_cafenea": 58,
+        "nume_cafenea": "Cafenea 58",
+        "id_materie": 18,
+        "nume_materie": "Fructe de p?dure",
+        "cantitate": 12
+    },
+    {
+        "id_cafenea": 66,
+        "nume_cafenea": "Cafenea 66",
+        "id_materie": 26,
+        "nume_materie": "Zah?r brun",
+        "cantitate": 41
+    },
+    {
+        "id_cafenea": 2,
+        "nume_cafenea": "Cafenea 2",
+        "id_materie": 2,
+        "nume_materie": "Lapte",
+        "cantitate": 45
+    },
+    {
+        "id_cafenea": 3,
+        "nume_cafenea": "Cafenea 3",
+        "id_materie": 3,
+        "nume_materie": "Zah?r",
+        "cantitate": 32
+    },
+    {
+        "id_cafenea": 4,
+        "nume_cafenea": "Cafenea 4",
+        "id_materie": 4,
+        "nume_materie": "Ciocolat?",
+        "cantitate": 37
+    },
+    {
+        "id_cafenea": 5,
+        "nume_cafenea": "Cafenea 5",
+        "id_materie": 5,
+        "nume_materie": "Sirop de caramel",
+        "cantitate": 8
+    },
+    {
+        "id_cafenea": 6,
+        "nume_cafenea": "Cafenea 6",
+        "id_materie": 6,
+        "nume_materie": "Pahare",
+        "cantitate": 28
+    },
+    {
+        "id_cafenea": 7,
+        "nume_cafenea": "Cafenea 7",
+        "id_materie": 7,
+        "nume_materie": "Linguri",
+        "cantitate": 6
+    },
+    {
+        "id_cafenea": 8,
+        "nume_cafenea": "Cafenea 8",
+        "id_materie": 8,
+        "nume_materie": "Praf de cacao",
+        "cantitate": 15
+    },
+    {
+        "id_cafenea": 10,
+        "nume_cafenea": "Cafenea 10",
+        "id_materie": 10,
+        "nume_materie": "L?m�ie",
+        "cantitate": 21
+    },
+    {
+        "id_cafenea": 11,
+        "nume_cafenea": "Cafenea 11",
+        "id_materie": 11,
+        "nume_materie": "Scor?i?oar?",
+        "cantitate": 5
+    },
+    {
+        "id_cafenea": 12,
+        "nume_cafenea": "Cafenea 12",
+        "id_materie": 12,
+        "nume_materie": "Fri?c?",
+        "cantitate": 14
+    },
+    {
+        "id_cafenea": 13,
+        "nume_cafenea": "Cafenea 13",
+        "id_materie": 13,
+        "nume_materie": "Alune",
+        "cantitate": 11
+    },
+    {
+        "id_cafenea": 14,
+        "nume_cafenea": "Cafenea 14",
+        "id_materie": 14,
+        "nume_materie": "Ghea??",
+        "cantitate": 25
+    },
+    {
+        "id_cafenea": 15,
+        "nume_cafenea": "Cafenea 15",
+        "id_materie": 15,
+        "nume_materie": "Apa plat?",
+        "cantitate": 24
+    },
+    {
+        "id_cafenea": 16,
+        "nume_cafenea": "Cafenea 16",
+        "id_materie": 16,
+        "nume_materie": "Sirop de vanilie",
+        "cantitate": 32
+    },
+    {
+        "id_cafenea": 18,
+        "nume_cafenea": "Cafenea 18",
+        "id_materie": 18,
+        "nume_materie": "Fructe de p?dure",
+        "cantitate": 50
+    },
+    {
+        "id_cafenea": 19,
+        "nume_cafenea": "Cafenea 19",
+        "id_materie": 19,
+        "nume_materie": "Lapte de migdale",
+        "cantitate": 12
+    },
+    {
+        "id_cafenea": 20,
+        "nume_cafenea": "Cafenea 20",
+        "id_materie": 20,
+        "nume_materie": "Lapte de soia",
+        "cantitate": 14
+    },
+    {
+        "id_cafenea": 21,
+        "nume_cafenea": "Cafenea 21",
+        "id_materie": 21,
+        "nume_materie": "F?in? de gr�u",
+        "cantitate": 33
+    },
+    {
+        "id_cafenea": 22,
+        "nume_cafenea": "Cafenea 22",
+        "id_materie": 22,
+        "nume_materie": "Miere",
+        "cantitate": 21
+    },
+    {
+        "id_cafenea": 23,
+        "nume_cafenea": "Cafenea 23",
+        "id_materie": 23,
+        "nume_materie": "Glazur? de ciocolat?",
+        "cantitate": 37
+    },
+    {
+        "id_cafenea": 24,
+        "nume_cafenea": "Cafenea 24",
+        "id_materie": 24,
+        "nume_materie": "Sirop de fructe de p?dure",
+        "cantitate": 33
+    },
+    {
+        "id_cafenea": 26,
+        "nume_cafenea": "Cafenea 26",
+        "id_materie": 26,
+        "nume_materie": "Zah?r brun",
+        "cantitate": 38
+    },
+    {
+        "id_cafenea": 27,
+        "nume_cafenea": "Cafenea 27",
+        "id_materie": 27,
+        "nume_materie": "Lapte condensat",
+        "cantitate": 8
+    },
+    {
+        "id_cafenea": 28,
+        "nume_cafenea": "Cafenea 28",
+        "id_materie": 28,
+        "nume_materie": "Pulbere de vanilie",
+        "cantitate": 46
+    },
+    {
+        "id_cafenea": 29,
+        "nume_cafenea": "Cafenea 29",
+        "id_materie": 29,
+        "nume_materie": "?erbet",
+        "cantitate": 28
+    },
+    {
+        "id_cafenea": 30,
+        "nume_cafenea": "Cafenea 30",
+        "id_materie": 30,
+        "nume_materie": "C?p?uni proaspete",
+        "cantitate": 19
+    },
+    {
+        "id_cafenea": 31,
+        "nume_cafenea": "Cafenea 31",
+        "id_materie": 1,
+        "nume_materie": "Cafea Arabica",
+        "cantitate": 40
+    },
+    {
+        "id_cafenea": 32,
+        "nume_cafenea": "Cafenea 32",
+        "id_materie": 2,
+        "nume_materie": "Lapte",
+        "cantitate": 14
+    },
+    {
+        "id_cafenea": 34,
+        "nume_cafenea": "Cafenea 34",
+        "id_materie": 4,
+        "nume_materie": "Ciocolat?",
+        "cantitate": 18
+    },
+    {
+        "id_cafenea": 35,
+        "nume_cafenea": "Cafenea 35",
+        "id_materie": 5,
+        "nume_materie": "Sirop de caramel",
+        "cantitate": 8
+    },
+    {
+        "id_cafenea": 36,
+        "nume_cafenea": "Cafenea 36",
+        "id_materie": 6,
+        "nume_materie": "Pahare",
+        "cantitate": 42
+    },
+    {
+        "id_cafenea": 37,
+        "nume_cafenea": "Cafenea 37",
+        "id_materie": 7,
+        "nume_materie": "Linguri",
+        "cantitate": 27
+    },
+    {
+        "id_cafenea": 38,
+        "nume_cafenea": "Cafenea 38",
+        "id_materie": 8,
+        "nume_materie": "Praf de cacao",
+        "cantitate": 30
+    },
+    {
+        "id_cafenea": 39,
+        "nume_cafenea": "Cafenea 39",
+        "id_materie": 9,
+        "nume_materie": "?erve?ele",
+        "cantitate": 39
+    },
+    {
+        "id_cafenea": 40,
+        "nume_cafenea": "Cafenea 40",
+        "id_materie": 10,
+        "nume_materie": "L?m�ie",
+        "cantitate": 47
+    },
+    {
+        "id_cafenea": 43,
+        "nume_cafenea": "Cafenea 43",
+        "id_materie": 13,
+        "nume_materie": "Alune",
+        "cantitate": 10
+    },
+    {
+        "id_cafenea": 44,
+        "nume_cafenea": "Cafenea 44",
+        "id_materie": 14,
+        "nume_materie": "Ghea??",
+        "cantitate": 49
+    },
+    {
+        "id_cafenea": 45,
+        "nume_cafenea": "Cafenea 45",
+        "id_materie": 15,
+        "nume_materie": "Apa plat?",
+        "cantitate": 12
+    },
+    {
+        "id_cafenea": 46,
+        "nume_cafenea": "Cafenea 46",
+        "id_materie": 16,
+        "nume_materie": "Sirop de vanilie",
+        "cantitate": 49
+    },
+    {
+        "id_cafenea": 47,
+        "nume_cafenea": "Cafenea 47",
+        "id_materie": 17,
+        "nume_materie": "Menta",
+        "cantitate": 16
+    },
+    {
+        "id_cafenea": 48,
+        "nume_cafenea": "Cafenea 48",
+        "id_materie": 18,
+        "nume_materie": "Fructe de p?dure",
+        "cantitate": 36
+    },
+    {
+        "id_cafenea": 49,
+        "nume_cafenea": "Cafenea 49",
+        "id_materie": 19,
+        "nume_materie": "Lapte de migdale",
+        "cantitate": 25
+    },
+    {
+        "id_cafenea": 51,
+        "nume_cafenea": "Cafenea 51",
+        "id_materie": 21,
+        "nume_materie": "F?in? de gr�u",
+        "cantitate": 48
+    },
+    {
+        "id_cafenea": 52,
+        "nume_cafenea": "Cafenea 52",
+        "id_materie": 22,
+        "nume_materie": "Miere",
+        "cantitate": 20
+    },
+    {
+        "id_cafenea": 53,
+        "nume_cafenea": "Cafenea 53",
+        "id_materie": 23,
+        "nume_materie": "Glazur? de ciocolat?",
+        "cantitate": 19
+    },
+    {
+        "id_cafenea": 54,
+        "nume_cafenea": "Cafenea 54",
+        "id_materie": 24,
+        "nume_materie": "Sirop de fructe de p?dure",
+        "cantitate": 19
+    },
+    {
+        "id_cafenea": 55,
+        "nume_cafenea": "Cafenea 55",
+        "id_materie": 25,
+        "nume_materie": "Nuci pecan",
+        "cantitate": 33
+    },
+    {
+        "id_cafenea": 56,
+        "nume_cafenea": "Cafenea 56",
+        "id_materie": 26,
+        "nume_materie": "Zah?r brun",
+        "cantitate": 16
+    },
+    {
+        "id_cafenea": 57,
+        "nume_cafenea": "Cafenea 57",
+        "id_materie": 27,
+        "nume_materie": "Lapte condensat",
+        "cantitate": 33
+    },
+    {
+        "id_cafenea": 59,
+        "nume_cafenea": "Cafenea 59",
+        "id_materie": 29,
+        "nume_materie": "?erbet",
+        "cantitate": 33
+    },
+    {
+        "id_cafenea": 60,
+        "nume_cafenea": "Cafenea 60",
+        "id_materie": 30,
+        "nume_materie": "C?p?uni proaspete",
+        "cantitate": 31
+    },
+    {
+        "id_cafenea": 61,
+        "nume_cafenea": "Cafenea 61",
+        "id_materie": 1,
+        "nume_materie": "Cafea Arabica",
+        "cantitate": 42
+    },
+    {
+        "id_cafenea": 62,
+        "nume_cafenea": "Cafenea 62",
+        "id_materie": 2,
+        "nume_materie": "Lapte",
+        "cantitate": 41
+    },
+    {
+        "id_cafenea": 63,
+        "nume_cafenea": "Cafenea 63",
+        "id_materie": 3,
+        "nume_materie": "Zah?r",
+        "cantitate": 24
+    },
+    {
+        "id_cafenea": 64,
+        "nume_cafenea": "Cafenea 64",
+        "id_materie": 4,
+        "nume_materie": "Ciocolat?",
+        "cantitate": 7
+    },
+    {
+        "id_cafenea": 65,
+        "nume_cafenea": "Cafenea 65",
+        "id_materie": 5,
+        "nume_materie": "Sirop de caramel",
+        "cantitate": 34
+    },
+    {
+        "id_cafenea": 67,
+        "nume_cafenea": "Cafenea 67",
+        "id_materie": 7,
+        "nume_materie": "Linguri",
+        "cantitate": 6
+    },
+    {
+        "id_cafenea": 68,
+        "nume_cafenea": "Cafenea 68",
+        "id_materie": 8,
+        "nume_materie": "Praf de cacao",
+        "cantitate": 34
+    },
+    {
+        "id_cafenea": 69,
+        "nume_cafenea": "Cafenea 69",
+        "id_materie": 9,
+        "nume_materie": "?erve?ele",
+        "cantitate": 5
+    },
+    {
+        "id_cafenea": 70,
+        "nume_cafenea": "Cafenea 70",
+        "id_materie": 10,
+        "nume_materie": "L?m�ie",
+        "cantitate": 13
+    },
+    {
+        "id_cafenea": 2,
+        "nume_cafenea": "Cafenea 2",
+        "id_materie": 12,
+        "nume_materie": "Fri?c?",
+        "cantitate": 9
+    },
+    {
+        "id_cafenea": 3,
+        "nume_cafenea": "Cafenea 3",
+        "id_materie": 13,
+        "nume_materie": "Alune",
+        "cantitate": 19
+    },
+    {
+        "id_cafenea": 4,
+        "nume_cafenea": "Cafenea 4",
+        "id_materie": 14,
+        "nume_materie": "Ghea??",
+        "cantitate": 17
+    },
+    {
+        "id_cafenea": 5,
+        "nume_cafenea": "Cafenea 5",
+        "id_materie": 15,
+        "nume_materie": "Apa plat?",
+        "cantitate": 13
+    },
+    {
+        "id_cafenea": 6,
+        "nume_cafenea": "Cafenea 6",
+        "id_materie": 16,
+        "nume_materie": "Sirop de vanilie",
+        "cantitate": 40
+    },
+    {
+        "id_cafenea": 7,
+        "nume_cafenea": "Cafenea 7",
+        "id_materie": 17,
+        "nume_materie": "Menta",
+        "cantitate": 20
+    },
+    {
+        "id_cafenea": 8,
+        "nume_cafenea": "Cafenea 8",
+        "id_materie": 18,
+        "nume_materie": "Fructe de p?dure",
+        "cantitate": 47
+    },
+    {
+        "id_cafenea": 10,
+        "nume_cafenea": "Cafenea 10",
+        "id_materie": 20,
+        "nume_materie": "Lapte de soia",
+        "cantitate": 31
+    },
+    {
+        "id_cafenea": 11,
+        "nume_cafenea": "Cafenea 11",
+        "id_materie": 21,
+        "nume_materie": "F?in? de gr�u",
+        "cantitate": 22
+    },
+    {
+        "id_cafenea": 12,
+        "nume_cafenea": "Cafenea 12",
+        "id_materie": 22,
+        "nume_materie": "Miere",
+        "cantitate": 6
+    },
+    {
+        "id_cafenea": 13,
+        "nume_cafenea": "Cafenea 13",
+        "id_materie": 23,
+        "nume_materie": "Glazur? de ciocolat?",
+        "cantitate": 16
+    },
+    {
+        "id_cafenea": 14,
+        "nume_cafenea": "Cafenea 14",
+        "id_materie": 24,
+        "nume_materie": "Sirop de fructe de p?dure",
+        "cantitate": 42
+    },
+    {
+        "id_cafenea": 15,
+        "nume_cafenea": "Cafenea 15",
+        "id_materie": 25,
+        "nume_materie": "Nuci pecan",
+        "cantitate": 33
+    },
+    {
+        "id_cafenea": 16,
+        "nume_cafenea": "Cafenea 16",
+        "id_materie": 26,
+        "nume_materie": "Zah?r brun",
+        "cantitate": 22
+    },
+    {
+        "id_cafenea": 18,
+        "nume_cafenea": "Cafenea 18",
+        "id_materie": 28,
+        "nume_materie": "Pulbere de vanilie",
+        "cantitate": 45
+    },
+    {
+        "id_cafenea": 19,
+        "nume_cafenea": "Cafenea 19",
+        "id_materie": 29,
+        "nume_materie": "?erbet",
+        "cantitate": 48
+    },
+    {
+        "id_cafenea": 20,
+        "nume_cafenea": "Cafenea 20",
+        "id_materie": 30,
+        "nume_materie": "C?p?uni proaspete",
+        "cantitate": 36
+    },
+    {
+        "id_cafenea": 21,
+        "nume_cafenea": "Cafenea 21",
+        "id_materie": 1,
+        "nume_materie": "Cafea Arabica",
+        "cantitate": 23
+    },
+    {
+        "id_cafenea": 22,
+        "nume_cafenea": "Cafenea 22",
+        "id_materie": 2,
+        "nume_materie": "Lapte",
+        "cantitate": 19
+    },
+    {
+        "id_cafenea": 23,
+        "nume_cafenea": "Cafenea 23",
+        "id_materie": 3,
+        "nume_materie": "Zah?r",
+        "cantitate": 21
+    },
+    {
+        "id_cafenea": 24,
+        "nume_cafenea": "Cafenea 24",
+        "id_materie": 4,
+        "nume_materie": "Ciocolat?",
+        "cantitate": 14
+    },
+    {
+        "id_cafenea": 26,
+        "nume_cafenea": "Cafenea 26",
+        "id_materie": 6,
+        "nume_materie": "Pahare",
+        "cantitate": 46
+    },
+    {
+        "id_cafenea": 27,
+        "nume_cafenea": "Cafenea 27",
+        "id_materie": 7,
+        "nume_materie": "Linguri",
+        "cantitate": 22
+    },
+    {
+        "id_cafenea": 28,
+        "nume_cafenea": "Cafenea 28",
+        "id_materie": 8,
+        "nume_materie": "Praf de cacao",
+        "cantitate": 11
+    },
+    {
+        "id_cafenea": 29,
+        "nume_cafenea": "Cafenea 29",
+        "id_materie": 9,
+        "nume_materie": "?erve?ele",
+        "cantitate": 32
+    },
+    {
+        "id_cafenea": 30,
+        "nume_cafenea": "Cafenea 30",
+        "id_materie": 10,
+        "nume_materie": "L?m�ie",
+        "cantitate": 13
+    },
+    {
+        "id_cafenea": 31,
+        "nume_cafenea": "Cafenea 31",
+        "id_materie": 11,
+        "nume_materie": "Scor?i?oar?",
+        "cantitate": 12
+    },
+    {
+        "id_cafenea": 32,
+        "nume_cafenea": "Cafenea 32",
+        "id_materie": 12,
+        "nume_materie": "Fri?c?",
+        "cantitate": 39
+    },
+    {
+        "id_cafenea": 34,
+        "nume_cafenea": "Cafenea 34",
+        "id_materie": 14,
+        "nume_materie": "Ghea??",
+        "cantitate": 39
+    },
+    {
+        "id_cafenea": 35,
+        "nume_cafenea": "Cafenea 35",
+        "id_materie": 15,
+        "nume_materie": "Apa plat?",
+        "cantitate": 46
+    },
+    {
+        "id_cafenea": 36,
+        "nume_cafenea": "Cafenea 36",
+        "id_materie": 16,
+        "nume_materie": "Sirop de vanilie",
+        "cantitate": 10
+    },
+    {
+        "id_cafenea": 37,
+        "nume_cafenea": "Cafenea 37",
+        "id_materie": 17,
+        "nume_materie": "Menta",
+        "cantitate": 10
+    },
+    {
+        "id_cafenea": 38,
+        "nume_cafenea": "Cafenea 38",
+        "id_materie": 18,
+        "nume_materie": "Fructe de p?dure",
+        "cantitate": 34
+    },
+    {
+        "id_cafenea": 39,
+        "nume_cafenea": "Cafenea 39",
+        "id_materie": 19,
+        "nume_materie": "Lapte de migdale",
+        "cantitate": 17
+    },
+    {
+        "id_cafenea": 40,
+        "nume_cafenea": "Cafenea 40",
+        "id_materie": 20,
+        "nume_materie": "Lapte de soia",
+        "cantitate": 47
+    },
+    {
+        "id_cafenea": 43,
+        "nume_cafenea": "Cafenea 43",
+        "id_materie": 23,
+        "nume_materie": "Glazur? de ciocolat?",
+        "cantitate": 37
+    },
+    {
+        "id_cafenea": 44,
+        "nume_cafenea": "Cafenea 44",
+        "id_materie": 24,
+        "nume_materie": "Sirop de fructe de p?dure",
+        "cantitate": 43
+    },
+    {
+        "id_cafenea": 45,
+        "nume_cafenea": "Cafenea 45",
+        "id_materie": 25,
+        "nume_materie": "Nuci pecan",
+        "cantitate": 24
+    },
+    {
+        "id_cafenea": 46,
+        "nume_cafenea": "Cafenea 46",
+        "id_materie": 26,
+        "nume_materie": "Zah?r brun",
+        "cantitate": 25
+    },
+    {
+        "id_cafenea": 47,
+        "nume_cafenea": "Cafenea 47",
+        "id_materie": 27,
+        "nume_materie": "Lapte condensat",
+        "cantitate": 13
+    },
+    {
+        "id_cafenea": 48,
+        "nume_cafenea": "Cafenea 48",
+        "id_materie": 28,
+        "nume_materie": "Pulbere de vanilie",
+        "cantitate": 44
+    },
+    {
+        "id_cafenea": 49,
+        "nume_cafenea": "Cafenea 49",
+        "id_materie": 29,
+        "nume_materie": "?erbet",
+        "cantitate": 47
+    },
+    {
+        "id_cafenea": 51,
+        "nume_cafenea": "Cafenea 51",
+        "id_materie": 1,
+        "nume_materie": "Cafea Arabica",
+        "cantitate": 39
+    },
+    {
+        "id_cafenea": 52,
+        "nume_cafenea": "Cafenea 52",
+        "id_materie": 2,
+        "nume_materie": "Lapte",
+        "cantitate": 24
+    },
+    {
+        "id_cafenea": 53,
+        "nume_cafenea": "Cafenea 53",
+        "id_materie": 3,
+        "nume_materie": "Zah?r",
+        "cantitate": 48
+    },
+    {
+        "id_cafenea": 54,
+        "nume_cafenea": "Cafenea 54",
+        "id_materie": 4,
+        "nume_materie": "Ciocolat?",
+        "cantitate": 21
+    },
+    {
+        "id_cafenea": 55,
+        "nume_cafenea": "Cafenea 55",
+        "id_materie": 5,
+        "nume_materie": "Sirop de caramel",
+        "cantitate": 22
+    },
+    {
+        "id_cafenea": 56,
+        "nume_cafenea": "Cafenea 56",
+        "id_materie": 6,
+        "nume_materie": "Pahare",
+        "cantitate": 28
+    },
+    {
+        "id_cafenea": 57,
+        "nume_cafenea": "Cafenea 57",
+        "id_materie": 7,
+        "nume_materie": "Linguri",
+        "cantitate": 6
+    },
+    {
+        "id_cafenea": 59,
+        "nume_cafenea": "Cafenea 59",
+        "id_materie": 9,
+        "nume_materie": "?erve?ele",
+        "cantitate": 23
+    },
+    {
+        "id_cafenea": 60,
+        "nume_cafenea": "Cafenea 60",
+        "id_materie": 10,
+        "nume_materie": "L?m�ie",
+        "cantitate": 40
+    },
+    {
+        "id_cafenea": 61,
+        "nume_cafenea": "Cafenea 61",
+        "id_materie": 11,
+        "nume_materie": "Scor?i?oar?",
+        "cantitate": 48
+    },
+    {
+        "id_cafenea": 62,
+        "nume_cafenea": "Cafenea 62",
+        "id_materie": 12,
+        "nume_materie": "Fri?c?",
+        "cantitate": 27
+    },
+    {
+        "id_cafenea": 63,
+        "nume_cafenea": "Cafenea 63",
+        "id_materie": 13,
+        "nume_materie": "Alune",
+        "cantitate": 37
+    },
+    {
+        "id_cafenea": 64,
+        "nume_cafenea": "Cafenea 64",
+        "id_materie": 14,
+        "nume_materie": "Ghea??",
+        "cantitate": 10
+    },
+    {
+        "id_cafenea": 65,
+        "nume_cafenea": "Cafenea 65",
+        "id_materie": 15,
+        "nume_materie": "Apa plat?",
+        "cantitate": 21
+    },
+    {
+        "id_cafenea": 67,
+        "nume_cafenea": "Cafenea 67",
+        "id_materie": 17,
+        "nume_materie": "Menta",
+        "cantitate": 11
+    },
+    {
+        "id_cafenea": 68,
+        "nume_cafenea": "Cafenea 68",
+        "id_materie": 18,
+        "nume_materie": "Fructe de p?dure",
+        "cantitate": 21
+    },
+    {
+        "id_cafenea": 69,
+        "nume_cafenea": "Cafenea 69",
+        "id_materie": 19,
+        "nume_materie": "Lapte de migdale",
+        "cantitate": 26
+    },
+    {
+        "id_cafenea": 70,
+        "nume_cafenea": "Cafenea 70",
+        "id_materie": 20,
+        "nume_materie": "Lapte de soia",
+        "cantitate": 45
+    },
+    {
+        "id_cafenea": 2,
+        "nume_cafenea": "Cafenea 2",
+        "id_materie": 22,
+        "nume_materie": "Miere",
+        "cantitate": 17
+    },
+    {
+        "id_cafenea": 3,
+        "nume_cafenea": "Cafenea 3",
+        "id_materie": 23,
+        "nume_materie": "Glazur? de ciocolat?",
+        "cantitate": 45
+    },
+    {
+        "id_cafenea": 4,
+        "nume_cafenea": "Cafenea 4",
+        "id_materie": 24,
+        "nume_materie": "Sirop de fructe de p?dure",
+        "cantitate": 35
+    },
+    {
+        "id_cafenea": 5,
+        "nume_cafenea": "Cafenea 5",
+        "id_materie": 25,
+        "nume_materie": "Nuci pecan",
+        "cantitate": 29
+    },
+    {
+        "id_cafenea": 6,
+        "nume_cafenea": "Cafenea 6",
+        "id_materie": 26,
+        "nume_materie": "Zah?r brun",
+        "cantitate": 42
+    },
+    {
+        "id_cafenea": 7,
+        "nume_cafenea": "Cafenea 7",
+        "id_materie": 27,
+        "nume_materie": "Lapte condensat",
+        "cantitate": 39
+    },
+    {
+        "id_cafenea": 8,
+        "nume_cafenea": "Cafenea 8",
+        "id_materie": 28,
+        "nume_materie": "Pulbere de vanilie",
+        "cantitate": 29
+    },
+    {
+        "id_cafenea": 10,
+        "nume_cafenea": "Cafenea 10",
+        "id_materie": 30,
+        "nume_materie": "C?p?uni proaspete",
+        "cantitate": 46
+    },
+    {
+        "id_cafenea": 11,
+        "nume_cafenea": "Cafenea 11",
+        "id_materie": 1,
+        "nume_materie": "Cafea Arabica",
+        "cantitate": 29
+    },
+    {
+        "id_cafenea": 12,
+        "nume_cafenea": "Cafenea 12",
+        "id_materie": 2,
+        "nume_materie": "Lapte",
+        "cantitate": 11
+    },
+    {
+        "id_cafenea": 13,
+        "nume_cafenea": "Cafenea 13",
+        "id_materie": 3,
+        "nume_materie": "Zah?r",
+        "cantitate": 30
+    },
+    {
+        "id_cafenea": 14,
+        "nume_cafenea": "Cafenea 14",
+        "id_materie": 4,
+        "nume_materie": "Ciocolat?",
+        "cantitate": 30
+    },
+    {
+        "id_cafenea": 15,
+        "nume_cafenea": "Cafenea 15",
+        "id_materie": 5,
+        "nume_materie": "Sirop de caramel",
+        "cantitate": 29
+    },
+    {
+        "id_cafenea": 16,
+        "nume_cafenea": "Cafenea 16",
+        "id_materie": 6,
+        "nume_materie": "Pahare",
+        "cantitate": 29
+    },
+    {
+        "id_cafenea": 18,
+        "nume_cafenea": "Cafenea 18",
+        "id_materie": 8,
+        "nume_materie": "Praf de cacao",
+        "cantitate": 42
+    },
+    {
+        "id_cafenea": 19,
+        "nume_cafenea": "Cafenea 19",
+        "id_materie": 9,
+        "nume_materie": "?erve?ele",
+        "cantitate": 26
+    },
+    {
+        "id_cafenea": 20,
+        "nume_cafenea": "Cafenea 20",
+        "id_materie": 10,
+        "nume_materie": "L?m�ie",
+        "cantitate": 19
+    },
+    {
+        "id_cafenea": 21,
+        "nume_cafenea": "Cafenea 21",
+        "id_materie": 11,
+        "nume_materie": "Scor?i?oar?",
+        "cantitate": 45
+    },
+    {
+        "id_cafenea": 22,
+        "nume_cafenea": "Cafenea 22",
+        "id_materie": 12,
+        "nume_materie": "Fri?c?",
+        "cantitate": 8
+    },
+    {
+        "id_cafenea": 23,
+        "nume_cafenea": "Cafenea 23",
+        "id_materie": 13,
+        "nume_materie": "Alune",
+        "cantitate": 11
+    },
+    {
+        "id_cafenea": 24,
+        "nume_cafenea": "Cafenea 24",
+        "id_materie": 14,
+        "nume_materie": "Ghea??",
+        "cantitate": 49
+    },
+    {
+        "id_cafenea": 26,
+        "nume_cafenea": "Cafenea 26",
+        "id_materie": 16,
+        "nume_materie": "Sirop de vanilie",
+        "cantitate": 13
+    },
+    {
+        "id_cafenea": 27,
+        "nume_cafenea": "Cafenea 27",
+        "id_materie": 17,
+        "nume_materie": "Menta",
+        "cantitate": 17
+    },
+    {
+        "id_cafenea": 28,
+        "nume_cafenea": "Cafenea 28",
+        "id_materie": 18,
+        "nume_materie": "Fructe de p?dure",
+        "cantitate": 43
+    },
+    {
+        "id_cafenea": 29,
+        "nume_cafenea": "Cafenea 29",
+        "id_materie": 19,
+        "nume_materie": "Lapte de migdale",
+        "cantitate": 14
+    },
+    {
+        "id_cafenea": 30,
+        "nume_cafenea": "Cafenea 30",
+        "id_materie": 20,
+        "nume_materie": "Lapte de soia",
+        "cantitate": 45
+    },
+    {
+        "id_cafenea": 31,
+        "nume_cafenea": "Cafenea 31",
+        "id_materie": 21,
+        "nume_materie": "F?in? de gr�u",
+        "cantitate": 19
+    },
+    {
+        "id_cafenea": 32,
+        "nume_cafenea": "Cafenea 32",
+        "id_materie": 22,
+        "nume_materie": "Miere",
+        "cantitate": 27
+    },
+    {
+        "id_cafenea": 34,
+        "nume_cafenea": "Cafenea 34",
+        "id_materie": 24,
+        "nume_materie": "Sirop de fructe de p?dure",
+        "cantitate": 42
+    },
+    {
+        "id_cafenea": 35,
+        "nume_cafenea": "Cafenea 35",
+        "id_materie": 25,
+        "nume_materie": "Nuci pecan",
+        "cantitate": 17
+    },
+    {
+        "id_cafenea": 36,
+        "nume_cafenea": "Cafenea 36",
+        "id_materie": 26,
+        "nume_materie": "Zah?r brun",
+        "cantitate": 18
+    },
+    {
+        "id_cafenea": 37,
+        "nume_cafenea": "Cafenea 37",
+        "id_materie": 27,
+        "nume_materie": "Lapte condensat",
+        "cantitate": 16
+    },
+    {
+        "id_cafenea": 38,
+        "nume_cafenea": "Cafenea 38",
+        "id_materie": 28,
+        "nume_materie": "Pulbere de vanilie",
+        "cantitate": 36
+    },
+    {
+        "id_cafenea": 39,
+        "nume_cafenea": "Cafenea 39",
+        "id_materie": 29,
+        "nume_materie": "?erbet",
+        "cantitate": 45
+    },
+    {
+        "id_cafenea": 40,
+        "nume_cafenea": "Cafenea 40",
+        "id_materie": 30,
+        "nume_materie": "C?p?uni proaspete",
+        "cantitate": 25
+    },
+    {
+        "id_cafenea": 43,
+        "nume_cafenea": "Cafenea 43",
+        "id_materie": 3,
+        "nume_materie": "Zah?r",
+        "cantitate": 42
+    },
+    {
+        "id_cafenea": 44,
+        "nume_cafenea": "Cafenea 44",
+        "id_materie": 4,
+        "nume_materie": "Ciocolat?",
+        "cantitate": 49
+    },
+    {
+        "id_cafenea": 45,
+        "nume_cafenea": "Cafenea 45",
+        "id_materie": 5,
+        "nume_materie": "Sirop de caramel",
+        "cantitate": 20
+    },
+    {
+        "id_cafenea": 46,
+        "nume_cafenea": "Cafenea 46",
+        "id_materie": 6,
+        "nume_materie": "Pahare",
+        "cantitate": 27
+    },
+    {
+        "id_cafenea": 47,
+        "nume_cafenea": "Cafenea 47",
+        "id_materie": 7,
+        "nume_materie": "Linguri",
+        "cantitate": 6
+    },
+    {
+        "id_cafenea": 48,
+        "nume_cafenea": "Cafenea 48",
+        "id_materie": 8,
+        "nume_materie": "Praf de cacao",
+        "cantitate": 49
+    },
+    {
+        "id_cafenea": 49,
+        "nume_cafenea": "Cafenea 49",
+        "id_materie": 9,
+        "nume_materie": "?erve?ele",
+        "cantitate": 47
+    },
+    {
+        "id_cafenea": 51,
+        "nume_cafenea": "Cafenea 51",
+        "id_materie": 11,
+        "nume_materie": "Scor?i?oar?",
+        "cantitate": 32
+    },
+    {
+        "id_cafenea": 52,
+        "nume_cafenea": "Cafenea 52",
+        "id_materie": 12,
+        "nume_materie": "Fri?c?",
+        "cantitate": 6
+    },
+    {
+        "id_cafenea": 53,
+        "nume_cafenea": "Cafenea 53",
+        "id_materie": 13,
+        "nume_materie": "Alune",
+        "cantitate": 24
+    },
+    {
+        "id_cafenea": 54,
+        "nume_cafenea": "Cafenea 54",
+        "id_materie": 14,
+        "nume_materie": "Ghea??",
+        "cantitate": 31
+    },
+    {
+        "id_cafenea": 55,
+        "nume_cafenea": "Cafenea 55",
+        "id_materie": 15,
+        "nume_materie": "Apa plat?",
+        "cantitate": 43
+    },
+    {
+        "id_cafenea": 56,
+        "nume_cafenea": "Cafenea 56",
+        "id_materie": 16,
+        "nume_materie": "Sirop de vanilie",
+        "cantitate": 21
+    },
+    {
+        "id_cafenea": 57,
+        "nume_cafenea": "Cafenea 57",
+        "id_materie": 17,
+        "nume_materie": "Menta",
+        "cantitate": 25
+    },
+    {
+        "id_cafenea": 59,
+        "nume_cafenea": "Cafenea 59",
+        "id_materie": 19,
+        "nume_materie": "Lapte de migdale",
+        "cantitate": 28
+    },
+    {
+        "id_cafenea": 60,
+        "nume_cafenea": "Cafenea 60",
+        "id_materie": 20,
+        "nume_materie": "Lapte de soia",
+        "cantitate": 38
+    },
+    {
+        "id_cafenea": 61,
+        "nume_cafenea": "Cafenea 61",
+        "id_materie": 21,
+        "nume_materie": "F?in? de gr�u",
+        "cantitate": 36
+    },
+    {
+        "id_cafenea": 62,
+        "nume_cafenea": "Cafenea 62",
+        "id_materie": 22,
+        "nume_materie": "Miere",
+        "cantitate": 8
+    },
+    {
+        "id_cafenea": 63,
+        "nume_cafenea": "Cafenea 63",
+        "id_materie": 23,
+        "nume_materie": "Glazur? de ciocolat?",
+        "cantitate": 6
+    },
+    {
+        "id_cafenea": 64,
+        "nume_cafenea": "Cafenea 64",
+        "id_materie": 24,
+        "nume_materie": "Sirop de fructe de p?dure",
+        "cantitate": 14
+    },
+    {
+        "id_cafenea": 65,
+        "nume_cafenea": "Cafenea 65",
+        "id_materie": 25,
+        "nume_materie": "Nuci pecan",
+        "cantitate": 39
+    },
+    {
+        "id_cafenea": 67,
+        "nume_cafenea": "Cafenea 67",
+        "id_materie": 27,
+        "nume_materie": "Lapte condensat",
+        "cantitate": 23
+    },
+    {
+        "id_cafenea": 68,
+        "nume_cafenea": "Cafenea 68",
+        "id_materie": 28,
+        "nume_materie": "Pulbere de vanilie",
+        "cantitate": 41
+    },
+    {
+        "id_cafenea": 69,
+        "nume_cafenea": "Cafenea 69",
+        "id_materie": 29,
+        "nume_materie": "?erbet",
+        "cantitate": 16
+    },
+    {
+        "id_cafenea": 70,
+        "nume_cafenea": "Cafenea 70",
+        "id_materie": 30,
+        "nume_materie": "C?p?uni proaspete",
+        "cantitate": 24
+    }
+]
